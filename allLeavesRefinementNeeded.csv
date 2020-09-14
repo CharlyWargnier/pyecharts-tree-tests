@@ -1,0 +1,719 @@
+root,edge,source,target,rank,depth,search_engine,datetime
+nba,"('nba', 'nba scores')",nba,nba scores,1,0,google,2020-09-14 17:32:06.976834
+nba,"('nba', 'nba playoffs')",nba,nba playoffs,2,0,google,2020-09-14 17:32:06.976834
+nba,"('nba', 'nba games')",nba,nba games,3,0,google,2020-09-14 17:32:06.976834
+nba,"('nba', 'nba youngboy')",nba,nba youngboy,4,0,google,2020-09-14 17:32:06.976834
+nba,"('nba', 'nba standings')",nba,nba standings,5,0,google,2020-09-14 17:32:06.976834
+nba,"('nba', 'nba today')",nba,nba today,6,0,google,2020-09-14 17:32:06.976834
+nba,"('nba', 'nba 2k21')",nba,nba 2k21,7,0,google,2020-09-14 17:32:06.976834
+nba,"('nba', 'nba news')",nba,nba news,8,0,google,2020-09-14 17:32:06.976834
+nba,"('nba', 'nba bubble')",nba,nba bubble,9,0,google,2020-09-14 17:32:06.976834
+nba,"('nba scores', 'nba scores today')",nba scores,nba scores today,1,1,google,2020-09-14 17:32:07.924964
+nba,"('nba scores', 'nba scores yesterday')",nba scores,nba scores yesterday,2,1,google,2020-09-14 17:32:07.924964
+nba,"('nba scores', 'nba scores last night')",nba scores,nba scores last night,3,1,google,2020-09-14 17:32:07.924964
+nba,"('nba scores', 'nba scores live')",nba scores,nba scores live,4,1,google,2020-09-14 17:32:07.924964
+nba,"('nba scores', 'nba scores and standings')",nba scores,nba scores and standings,5,1,google,2020-09-14 17:32:07.924964
+nba,"('nba scores', 'nba scores 2020')",nba scores,nba scores 2020,6,1,google,2020-09-14 17:32:07.924964
+nba,"('nba scores', 'nba scores cbs')",nba scores,nba scores cbs,7,1,google,2020-09-14 17:32:07.924964
+nba,"('nba scores', 'nba scores now')",nba scores,nba scores now,8,1,google,2020-09-14 17:32:07.924964
+nba,"('nba scores', 'nba scores for tonight')",nba scores,nba scores for tonight,9,1,google,2020-09-14 17:32:07.924964
+nba,"('nba playoffs', 'nba playoffs today')",nba playoffs,nba playoffs today,1,1,google,2020-09-14 17:32:08.679630
+nba,"('nba playoffs', 'nba playoffs schedule')",nba playoffs,nba playoffs schedule,2,1,google,2020-09-14 17:32:08.679630
+nba,"('nba playoffs', 'nba playoffs scores')",nba playoffs,nba playoffs scores,3,1,google,2020-09-14 17:32:08.679630
+nba,"('nba playoffs', 'nba playoffs tv schedule')",nba playoffs,nba playoffs tv schedule,4,1,google,2020-09-14 17:32:08.679630
+nba,"('nba playoffs', 'nba playoffs 2019')",nba playoffs,nba playoffs 2019,5,1,google,2020-09-14 17:32:08.679630
+nba,"('nba playoffs', 'nba playoffs tonight')",nba playoffs,nba playoffs tonight,6,1,google,2020-09-14 17:32:08.679630
+nba,"('nba playoffs', 'nba playoffs start')",nba playoffs,nba playoffs start,7,1,google,2020-09-14 17:32:08.679630
+nba,"('nba playoffs', 'nba playoffs start date')",nba playoffs,nba playoffs start date,8,1,google,2020-09-14 17:32:08.679630
+nba,"('nba playoffs', 'nba playoffs live')",nba playoffs,nba playoffs live,9,1,google,2020-09-14 17:32:08.679630
+nba,"('nba games', 'nba games live')",nba games,nba games live,1,1,google,2020-09-14 17:32:09.818651
+nba,"('nba games', 'nba games yesterday')",nba games,nba games yesterday,2,1,google,2020-09-14 17:32:09.818651
+nba,"('nba games', 'nba games tonight on tv 2020')",nba games,nba games tonight on tv 2020,3,1,google,2020-09-14 17:32:09.818651
+nba,"('nba games', 'nba games today on abc')",nba games,nba games today on abc,4,1,google,2020-09-14 17:32:09.818651
+nba,"('nba games', 'nba games right now')",nba games,nba games right now,5,1,google,2020-09-14 17:32:09.818651
+nba,"('nba games', 'nba games 2020')",nba games,nba games 2020,6,1,google,2020-09-14 17:32:09.818651
+nba,"('nba games', 'nba games on now')",nba games,nba games on now,7,1,google,2020-09-14 17:32:09.818651
+nba,"('nba games', 'nba games on tv')",nba games,nba games on tv,8,1,google,2020-09-14 17:32:09.818651
+nba,"('nba games', 'nba games last night')",nba games,nba games last night,9,1,google,2020-09-14 17:32:09.818651
+nba,"('nba youngboy', 'nba youngboy net worth')",nba youngboy,nba youngboy net worth,1,1,google,2020-09-14 17:32:10.749266
+nba,"('nba youngboy', 'nba youngboy kids')",nba youngboy,nba youngboy kids,2,1,google,2020-09-14 17:32:10.749266
+nba,"('nba youngboy', 'nba youngboy age')",nba youngboy,nba youngboy age,3,1,google,2020-09-14 17:32:10.749266
+nba,"('nba youngboy', 'nba youngboy net worth 2020')",nba youngboy,nba youngboy net worth 2020,4,1,google,2020-09-14 17:32:10.749266
+nba,"('nba youngboy', 'nba youngboy height')",nba youngboy,nba youngboy height,5,1,google,2020-09-14 17:32:10.749266
+nba,"('nba youngboy', 'nba youngboy merch')",nba youngboy,nba youngboy merch,6,1,google,2020-09-14 17:32:10.749266
+nba,"('nba youngboy', 'nba youngboy quotes')",nba youngboy,nba youngboy quotes,7,1,google,2020-09-14 17:32:10.749266
+nba,"('nba youngboy', 'nba youngboy instagram')",nba youngboy,nba youngboy instagram,8,1,google,2020-09-14 17:32:10.749266
+nba,"('nba youngboy', 'nba youngboy lyrics')",nba youngboy,nba youngboy lyrics,9,1,google,2020-09-14 17:32:10.749266
+nba,"('nba standings', 'nba standings 2020')",nba standings,nba standings 2020,1,1,google,2020-09-14 17:32:11.825480
+nba,"('nba standings', 'nba standings bubble')",nba standings,nba standings bubble,2,1,google,2020-09-14 17:32:11.825480
+nba,"('nba standings', 'nba standings west')",nba standings,nba standings west,3,1,google,2020-09-14 17:32:11.825480
+nba,"('nba standings', 'nba standings 2018')",nba standings,nba standings 2018,4,1,google,2020-09-14 17:32:11.825480
+nba,"('nba standings', 'nba standings espn')",nba standings,nba standings espn,5,1,google,2020-09-14 17:32:11.825480
+nba,"('nba standings', 'nba standings 2017')",nba standings,nba standings 2017,6,1,google,2020-09-14 17:32:11.825480
+nba,"('nba standings', 'nba standings 2020 bubble')",nba standings,nba standings 2020 bubble,7,1,google,2020-09-14 17:32:11.825480
+nba,"('nba standings', 'nba standings bracket')",nba standings,nba standings bracket,8,1,google,2020-09-14 17:32:11.825480
+nba,"('nba standings', 'nba standings 2016')",nba standings,nba standings 2016,9,1,google,2020-09-14 17:32:11.825480
+nba,"('nba today', 'nba today game')",nba today,nba today game,1,1,google,2020-09-14 17:32:12.981055
+nba,"('nba today', 'nba today scores')",nba today,nba today scores,2,1,google,2020-09-14 17:32:12.981055
+nba,"('nba today', 'nba today on tv')",nba today,nba today on tv,3,1,google,2020-09-14 17:32:12.981055
+nba,"('nba today', 'nba today channel')",nba today,nba today channel,4,1,google,2020-09-14 17:32:12.981055
+nba,"('nba today', 'nba today on abc')",nba today,nba today on abc,5,1,google,2020-09-14 17:32:12.981055
+nba,"('nba today', 'nba today live')",nba today,nba today live,6,1,google,2020-09-14 17:32:12.981055
+nba,"('nba today', 'nba today tv channel')",nba today,nba today tv channel,7,1,google,2020-09-14 17:32:12.981055
+nba,"('nba today', 'nba today predictions')",nba today,nba today predictions,8,1,google,2020-09-14 17:32:12.981055
+nba,"('nba today', 'nba today 2k20')",nba today,nba today 2k20,9,1,google,2020-09-14 17:32:12.981055
+nba,"('nba 2k21', 'nba 2k21 release date')",nba 2k21,nba 2k21 release date,1,1,google,2020-09-14 17:32:13.947514
+nba,"('nba 2k21', 'nba 2k21 locker codes')",nba 2k21,nba 2k21 locker codes,2,1,google,2020-09-14 17:32:13.947514
+nba,"('nba 2k21', 'nba 2k21 update')",nba 2k21,nba 2k21 update,3,1,google,2020-09-14 17:32:13.947514
+nba,"('nba 2k21', 'nba 2k21 patch')",nba 2k21,nba 2k21 patch,4,1,google,2020-09-14 17:32:13.947514
+nba,"('nba 2k21', 'nba 2k21 patch 1.02')",nba 2k21,nba 2k21 patch 1.02,5,1,google,2020-09-14 17:32:13.947514
+nba,"('nba 2k21', 'nba 2k21 release')",nba 2k21,nba 2k21 release,6,1,google,2020-09-14 17:32:13.947514
+nba,"('nba 2k21', 'nba 2k21 mycareer')",nba 2k21,nba 2k21 mycareer,7,1,google,2020-09-14 17:32:13.947514
+nba,"('nba 2k21', 'nba 2k21 cover')",nba 2k21,nba 2k21 cover,8,1,google,2020-09-14 17:32:13.947514
+nba,"('nba 2k21', 'nba 2k21 pre order')",nba 2k21,nba 2k21 pre order,9,1,google,2020-09-14 17:32:13.947514
+nba,"('nba news', 'nba news and rumors')",nba news,nba news and rumors,1,1,google,2020-09-14 17:32:15.046489
+nba,"('nba news', 'nba news lakers')",nba news,nba news lakers,2,1,google,2020-09-14 17:32:15.046489
+nba,"('nba news', 'nba news trade')",nba news,nba news trade,3,1,google,2020-09-14 17:32:15.046489
+nba,"('nba news', 'nba news clippers')",nba news,nba news clippers,4,1,google,2020-09-14 17:32:15.046489
+nba,"('nba news', 'nba news rockets')",nba news,nba news rockets,5,1,google,2020-09-14 17:32:15.046489
+nba,"('nba news', 'nba news warriors')",nba news,nba news warriors,6,1,google,2020-09-14 17:32:15.046489
+nba,"('nba news', 'nba news espn')",nba news,nba news espn,7,1,google,2020-09-14 17:32:15.046489
+nba,"('nba news', 'nba news scores')",nba news,nba news scores,8,1,google,2020-09-14 17:32:15.046489
+nba,"('nba news', 'nba news celtics')",nba news,nba news celtics,9,1,google,2020-09-14 17:32:15.046489
+nba,"('nba bubble', 'nba bubble schedule')",nba bubble,nba bubble schedule,1,1,google,2020-09-14 17:32:16.285229
+nba,"('nba bubble', 'nba bubble standings')",nba bubble,nba bubble standings,2,1,google,2020-09-14 17:32:16.285229
+nba,"('nba bubble', 'nba bubble teams')",nba bubble,nba bubble teams,3,1,google,2020-09-14 17:32:16.285229
+nba,"('nba bubble', 'nba bubble stats')",nba bubble,nba bubble stats,4,1,google,2020-09-14 17:32:16.285229
+nba,"('nba bubble', 'nba bubble food')",nba bubble,nba bubble food,5,1,google,2020-09-14 17:32:16.285229
+nba,"('nba bubble', 'nba bubble records')",nba bubble,nba bubble records,6,1,google,2020-09-14 17:32:16.285229
+nba,"('nba bubble', 'nba bubble playoffs')",nba bubble,nba bubble playoffs,7,1,google,2020-09-14 17:32:16.285229
+nba,"('nba bubble', 'nba bubble plan')",nba bubble,nba bubble plan,8,1,google,2020-09-14 17:32:16.285229
+nba,"('nba bubble', 'nba bubble hotels')",nba bubble,nba bubble hotels,9,1,google,2020-09-14 17:32:16.285229
+nba,"('nba scores today', 'nba scores today 2020')",nba scores today,nba scores today 2020,1,2,google,2020-09-14 17:32:17.068903
+nba,"('nba scores today', 'nba scores today lakers')",nba scores today,nba scores today lakers,2,2,google,2020-09-14 17:32:17.068903
+nba,"('nba scores today', 'nba scores today game')",nba scores today,nba scores today game,3,2,google,2020-09-14 17:32:17.068903
+nba,"('nba scores today', 'nba scores today lakers vs clippers')",nba scores today,nba scores today lakers vs clippers,4,2,google,2020-09-14 17:32:17.068903
+nba,"('nba scores today', 'nba scores today playoffs')",nba scores today,nba scores today playoffs,5,2,google,2020-09-14 17:32:17.068903
+nba,"('nba scores today', 'nba scores today scrimmage')",nba scores today,nba scores today scrimmage,6,2,google,2020-09-14 17:32:17.068903
+nba,"('nba scores today', 'nba scores today please')",nba scores today,nba scores today please,7,2,google,2020-09-14 17:32:17.068903
+nba,"('nba scores today', 'nba scores today channel')",nba scores today,nba scores today channel,8,2,google,2020-09-14 17:32:17.068903
+nba,"('nba scores today', 'nba scores today 2020 espn')",nba scores today,nba scores today 2020 espn,9,2,google,2020-09-14 17:32:17.068903
+nba,"('nba scores yesterday', 'nba scores yesterday 2020')",nba scores yesterday,nba scores yesterday 2020,1,2,google,2020-09-14 17:32:17.844237
+nba,"('nba scores yesterday', 'nba scores yesterday lakers')",nba scores yesterday,nba scores yesterday lakers,2,2,google,2020-09-14 17:32:17.844237
+nba,"('nba scores yesterday', 'nba scores yesterday golden state warriors')",nba scores yesterday,nba scores yesterday golden state warriors,3,2,google,2020-09-14 17:32:17.844237
+nba,"('nba scores yesterday', 'nba scores from yesterday please')",nba scores yesterday,nba scores from yesterday please,4,2,google,2020-09-14 17:32:17.844237
+nba,"('nba scores yesterday', 'nba summer league scores yesterday')",nba scores yesterday,nba summer league scores yesterday,5,2,google,2020-09-14 17:32:17.844237
+nba,"('nba scores last night', 'nba scores last night lakers')",nba scores last night,nba scores last night lakers,1,2,google,2020-09-14 17:32:19.258465
+nba,"('nba scores last night', ""nba scores last night's games"")",nba scores last night,nba scores last night's games,2,2,google,2020-09-14 17:32:19.258465
+nba,"('nba scores last night', 'nba scores last night playoffs')",nba scores last night,nba scores last night playoffs,3,2,google,2020-09-14 17:32:19.258465
+nba,"('nba scores last night', 'nba scores last night please')",nba scores last night,nba scores last night please,4,2,google,2020-09-14 17:32:19.258465
+nba,"('nba scores last night', 'nba scores last night 2019 playoffs')",nba scores last night,nba scores last night 2019 playoffs,5,2,google,2020-09-14 17:32:19.258465
+nba,"('nba scores last night', 'nba scores last night 2018')",nba scores last night,nba scores last night 2018,6,2,google,2020-09-14 17:32:19.258465
+nba,"('nba scores last night', 'nba scores last tonight')",nba scores last night,nba scores last tonight,7,2,google,2020-09-14 17:32:19.258465
+nba,"('nba scores last night', 'nba sports scores last night')",nba scores last night,nba sports scores last night,8,2,google,2020-09-14 17:32:19.258465
+nba,"('nba scores last night', 'nba scores last wednesday night')",nba scores last night,nba scores last wednesday night,9,2,google,2020-09-14 17:32:19.258465
+nba,"('nba scores live', 'nba scores live today')",nba scores live,nba scores live today,1,2,google,2020-09-14 17:32:20.542900
+nba,"('nba scores live', 'nba scores live now')",nba scores live,nba scores live now,2,2,google,2020-09-14 17:32:20.542900
+nba,"('nba scores live', 'nba scores livescore')",nba scores live,nba scores livescore,3,2,google,2020-09-14 17:32:20.542900
+nba,"('nba scores live', 'nba scores live updates')",nba scores live,nba scores live updates,4,2,google,2020-09-14 17:32:20.542900
+nba,"('nba scores live', 'nba scores live watch')",nba scores live,nba scores live watch,5,2,google,2020-09-14 17:32:20.542900
+nba,"('nba scores live', 'nba scores live stream reddit')",nba scores live,nba scores live stream reddit,6,2,google,2020-09-14 17:32:20.542900
+nba,"('nba scores live', 'nba scores live now today')",nba scores live,nba scores live now today,7,2,google,2020-09-14 17:32:20.542900
+nba,"('nba scores live', 'nba scores live stats')",nba scores live,nba scores live stats,8,2,google,2020-09-14 17:32:20.542900
+nba,"('nba scores and standings', 'nba scores and standings espn')",nba scores and standings,nba scores and standings espn,1,2,google,2020-09-14 17:32:21.680475
+nba,"('nba scores and standings', 'nba scores and standings 2020')",nba scores and standings,nba scores and standings 2020,2,2,google,2020-09-14 17:32:21.680475
+nba,"('nba scores and standings', 'nba scores and standings today')",nba scores and standings,nba scores and standings today,3,2,google,2020-09-14 17:32:21.680475
+nba,"('nba scores and standings', 'nba scores and standings playoffs')",nba scores and standings,nba scores and standings playoffs,4,2,google,2020-09-14 17:32:21.680475
+nba,"('nba scores and standings', 'nba scores and standings 2019 to 2020')",nba scores and standings,nba scores and standings 2019 to 2020,5,2,google,2020-09-14 17:32:21.680475
+nba,"('nba scores and standings', 'nba scores and standings updates')",nba scores and standings,nba scores and standings updates,6,2,google,2020-09-14 17:32:21.680475
+nba,"('nba scores and standings', 'nba scores and standings lakers')",nba scores and standings,nba scores and standings lakers,7,2,google,2020-09-14 17:32:21.680475
+nba,"('nba scores and standings', 'nba scores and standings bracket')",nba scores and standings,nba scores and standings bracket,8,2,google,2020-09-14 17:32:21.680475
+nba,"('nba scores and standings', 'nba scores and standings 2019 schedule')",nba scores and standings,nba scores and standings 2019 schedule,9,2,google,2020-09-14 17:32:21.680475
+nba,"('nba scores 2020', 'nba scores 2020 season')",nba scores 2020,nba scores 2020 season,1,2,google,2020-09-14 17:32:22.667136
+nba,"('nba scores 2020', 'nba scores 2020 playoffs')",nba scores 2020,nba scores 2020 playoffs,2,2,google,2020-09-14 17:32:22.667136
+nba,"('nba scores 2020', 'nba 2020 scores leaders')",nba scores 2020,nba 2020 scores leaders,3,2,google,2020-09-14 17:32:22.667136
+nba,"('nba scores 2020', 'nba scores yesterday 2020')",nba scores 2020,nba scores yesterday 2020,4,2,google,2020-09-14 17:32:22.667136
+nba,"('nba scores 2020', 'nba live scores 2020')",nba scores 2020,nba live scores 2020,5,2,google,2020-09-14 17:32:22.667136
+nba,"('nba scores 2020', 'nba scrimmage scores 2020')",nba scores 2020,nba scrimmage scores 2020,6,2,google,2020-09-14 17:32:22.667136
+nba,"('nba scores 2020', 'nba bubble scores 2020')",nba scores 2020,nba bubble scores 2020,7,2,google,2020-09-14 17:32:22.667136
+nba,"('nba scores 2020', 'nba finals scores 2020')",nba scores 2020,nba finals scores 2020,8,2,google,2020-09-14 17:32:22.667136
+nba,"('nba scores 2020', 'nba average scores 2020')",nba scores 2020,nba average scores 2020,9,2,google,2020-09-14 17:32:22.667136
+nba,"('nba scores cbs', 'nba scores cbs picks')",nba scores cbs,nba scores cbs picks,1,2,google,2020-09-14 17:32:24.006018
+nba,"('nba scores cbs', 'nba scores and standings cbs')",nba scores cbs,nba scores and standings cbs,2,2,google,2020-09-14 17:32:24.006018
+nba,"('nba scores cbs', 'espn nba scores cbs')",nba scores cbs,espn nba scores cbs,3,2,google,2020-09-14 17:32:24.006018
+nba,"('nba scores now', 'nba scores nowitzki')",nba scores now,nba scores nowitzki,1,2,google,2020-09-14 17:32:25.065908
+nba,"('nba scores now', 'nba basketball scores now')",nba scores now,nba basketball scores now,2,2,google,2020-09-14 17:32:25.065908
+nba,"('nba scores now', 'nba scores live now today')",nba scores now,nba scores live now today,3,2,google,2020-09-14 17:32:25.065908
+nba,"('nba scores now', 'nba final scores right now')",nba scores now,nba final scores right now,4,2,google,2020-09-14 17:32:25.065908
+nba,"('nba scores now', 'nba basketball scores right now')",nba scores now,nba basketball scores right now,5,2,google,2020-09-14 17:32:25.065908
+nba,"('nba scores now', 'all nba scores right now')",nba scores now,all nba scores right now,6,2,google,2020-09-14 17:32:25.065908
+nba,"('nba scores now', 'nba playoff scores right now')",nba scores now,nba playoff scores right now,7,2,google,2020-09-14 17:32:25.065908
+nba,"('nba scores now', 'nba game scores right now')",nba scores now,nba game scores right now,8,2,google,2020-09-14 17:32:25.065908
+nba,"('nba scores now', 'live nba scores right now')",nba scores now,live nba scores right now,9,2,google,2020-09-14 17:32:25.065908
+nba,"('nba scores for tonight', 'nba scores for tonight games')",nba scores for tonight,nba scores for tonight games,1,2,google,2020-09-14 17:32:26.146815
+nba,"('nba playoffs today', 'nba playoffs today games')",nba playoffs today,nba playoffs today games,1,2,google,2020-09-14 17:32:27.311834
+nba,"('nba playoffs today', 'nba playoffs today schedule')",nba playoffs today,nba playoffs today schedule,2,2,google,2020-09-14 17:32:27.311834
+nba,"('nba playoffs today', 'nba playoffs today on tv')",nba playoffs today,nba playoffs today on tv,3,2,google,2020-09-14 17:32:27.311834
+nba,"('nba playoffs today', 'nba playoffs today channel')",nba playoffs today,nba playoffs today channel,4,2,google,2020-09-14 17:32:27.311834
+nba,"('nba playoffs today', 'nba playoffs today on abc')",nba playoffs today,nba playoffs today on abc,5,2,google,2020-09-14 17:32:27.311834
+nba,"('nba playoffs today', 'nba playoffs today scores')",nba playoffs today,nba playoffs today scores,6,2,google,2020-09-14 17:32:27.311834
+nba,"('nba playoffs today', 'nba playoffs today live')",nba playoffs today,nba playoffs today live,7,2,google,2020-09-14 17:32:27.311834
+nba,"('nba playoffs today', 'nba playoffs today time')",nba playoffs today,nba playoffs today time,8,2,google,2020-09-14 17:32:27.311834
+nba,"('nba playoffs today', 'nba playoffs today 2020')",nba playoffs today,nba playoffs today 2020,9,2,google,2020-09-14 17:32:27.311834
+nba,"('nba playoffs schedule', 'nba playoffs schedule today')",nba playoffs schedule,nba playoffs schedule today,1,2,google,2020-09-14 17:32:28.415867
+nba,"('nba playoffs schedule', 'nba playoffs schedule tv')",nba playoffs schedule,nba playoffs schedule tv,2,2,google,2020-09-14 17:32:28.415867
+nba,"('nba playoffs schedule', 'nba playoffs schedule 2020')",nba playoffs schedule,nba playoffs schedule 2020,3,2,google,2020-09-14 17:32:28.415867
+nba,"('nba playoffs schedule', 'nba playoffs schedule 2019')",nba playoffs schedule,nba playoffs schedule 2019,4,2,google,2020-09-14 17:32:28.415867
+nba,"('nba playoffs schedule', 'nba playoffs schedule round 2')",nba playoffs schedule,nba playoffs schedule round 2,5,2,google,2020-09-14 17:32:28.415867
+nba,"('nba playoffs schedule', 'nba playoffs schedule second round')",nba playoffs schedule,nba playoffs schedule second round,6,2,google,2020-09-14 17:32:28.415867
+nba,"('nba playoffs schedule', 'nba playoffs schedule orlando')",nba playoffs schedule,nba playoffs schedule orlando,7,2,google,2020-09-14 17:32:28.415867
+nba,"('nba playoffs schedule', 'nba playoffs schedule espn')",nba playoffs schedule,nba playoffs schedule espn,8,2,google,2020-09-14 17:32:28.415867
+nba,"('nba playoffs schedule', 'nba playoffs schedule lakers')",nba playoffs schedule,nba playoffs schedule lakers,9,2,google,2020-09-14 17:32:28.415867
+nba,"('nba playoffs scores', 'nba playoffs scores today')",nba playoffs scores,nba playoffs scores today,1,2,google,2020-09-14 17:32:29.541343
+nba,"('nba playoffs scores', 'nba playoffs scores last night')",nba playoffs scores,nba playoffs scores last night,2,2,google,2020-09-14 17:32:29.541343
+nba,"('nba playoffs scores', 'nba playoffs scores bracket')",nba playoffs scores,nba playoffs scores bracket,3,2,google,2020-09-14 17:32:29.541343
+nba,"('nba playoffs scores', 'nba playoffs scores yesterday')",nba playoffs scores,nba playoffs scores yesterday,4,2,google,2020-09-14 17:32:29.541343
+nba,"('nba playoffs scores', 'nba playoffs scores and standings')",nba playoffs scores,nba playoffs scores and standings,5,2,google,2020-09-14 17:32:29.541343
+nba,"('nba playoffs scores', 'nba playoffs scores tonight')",nba playoffs scores,nba playoffs scores tonight,6,2,google,2020-09-14 17:32:29.541343
+nba,"('nba playoffs scores', 'nba playoffs scores 2019')",nba playoffs scores,nba playoffs scores 2019,7,2,google,2020-09-14 17:32:29.541343
+nba,"('nba playoffs scores', 'nba playoffs scores and highlights')",nba playoffs scores,nba playoffs scores and highlights,8,2,google,2020-09-14 17:32:29.541343
+nba,"('nba playoffs scores', 'nba playoffs scores live')",nba playoffs scores,nba playoffs scores live,9,2,google,2020-09-14 17:32:29.541343
+nba,"('nba playoffs tv schedule', 'nba playoffs tv schedule today')",nba playoffs tv schedule,nba playoffs tv schedule today,1,2,google,2020-09-14 17:32:30.437495
+nba,"('nba playoffs tv schedule', 'nba playoffs tv schedule espn')",nba playoffs tv schedule,nba playoffs tv schedule espn,2,2,google,2020-09-14 17:32:30.437495
+nba,"('nba playoffs tv schedule', 'nba playoffs tv schedule 2020 printable')",nba playoffs tv schedule,nba playoffs tv schedule 2020 printable,3,2,google,2020-09-14 17:32:30.437495
+nba,"('nba playoffs tv schedule', 'nba playoffs tv schedule canada')",nba playoffs tv schedule,nba playoffs tv schedule canada,4,2,google,2020-09-14 17:32:30.437495
+nba,"('nba playoffs tv schedule', 'nba playoffs tv schedule for tonight')",nba playoffs tv schedule,nba playoffs tv schedule for tonight,5,2,google,2020-09-14 17:32:30.437495
+nba,"('nba playoffs tv schedule', 'nba playoffs tv schedule uk')",nba playoffs tv schedule,nba playoffs tv schedule uk,6,2,google,2020-09-14 17:32:30.437495
+nba,"('nba playoffs tv schedule', 'nba playoffs tv schedule india')",nba playoffs tv schedule,nba playoffs tv schedule india,7,2,google,2020-09-14 17:32:30.437495
+nba,"('nba playoffs tv schedule', 'nba playoffs tv schedule tsn')",nba playoffs tv schedule,nba playoffs tv schedule tsn,8,2,google,2020-09-14 17:32:30.437495
+nba,"('nba playoffs tv schedule', 'nba playoffs tv schedule australia')",nba playoffs tv schedule,nba playoffs tv schedule australia,9,2,google,2020-09-14 17:32:30.437495
+nba,"('nba playoffs 2019', 'nba playoffs 2019 bracket')",nba playoffs 2019,nba playoffs 2019 bracket,1,2,google,2020-09-14 17:32:31.347395
+nba,"('nba playoffs 2019', 'nba playoffs 2019 schedule')",nba playoffs 2019,nba playoffs 2019 schedule,2,2,google,2020-09-14 17:32:31.347395
+nba,"('nba playoffs 2019', 'nba playoffs 2019 dates')",nba playoffs 2019,nba playoffs 2019 dates,3,2,google,2020-09-14 17:32:31.347395
+nba,"('nba playoffs 2019', 'nba playoffs 2019 results')",nba playoffs 2019,nba playoffs 2019 results,4,2,google,2020-09-14 17:32:31.347395
+nba,"('nba playoffs 2019', 'nba playoffs 2019 okc vs portland')",nba playoffs 2019,nba playoffs 2019 okc vs portland,5,2,google,2020-09-14 17:32:31.347395
+nba,"('nba playoffs 2019', 'nba playoffs 2019-20')",nba playoffs 2019,nba playoffs 2019-20,6,2,google,2020-09-14 17:32:31.347395
+nba,"('nba playoffs 2019', 'nba playoffs 2019 start date')",nba playoffs 2019,nba playoffs 2019 start date,7,2,google,2020-09-14 17:32:31.347395
+nba,"('nba playoffs 2019', 'nba playoffs 2019 teams')",nba playoffs 2019,nba playoffs 2019 teams,8,2,google,2020-09-14 17:32:31.347395
+nba,"('nba playoffs 2019', 'nba playoffs 2019 wiki')",nba playoffs 2019,nba playoffs 2019 wiki,9,2,google,2020-09-14 17:32:31.347395
+nba,"('nba playoffs tonight', 'nba playoffs tonight channel')",nba playoffs tonight,nba playoffs tonight channel,1,2,google,2020-09-14 17:32:32.432277
+nba,"('nba playoffs tonight', 'nba playoffs tonight on tnt')",nba playoffs tonight,nba playoffs tonight on tnt,2,2,google,2020-09-14 17:32:32.432277
+nba,"('nba playoffs tonight', 'nba playoffs tonight scores')",nba playoffs tonight,nba playoffs tonight scores,3,2,google,2020-09-14 17:32:32.432277
+nba,"('nba playoffs tonight', ""nba playoffs tonight who's playing"")",nba playoffs tonight,nba playoffs tonight who's playing,4,2,google,2020-09-14 17:32:32.432277
+nba,"('nba playoffs tonight', 'nba playoffs tonight who plays')",nba playoffs tonight,nba playoffs tonight who plays,5,2,google,2020-09-14 17:32:32.432277
+nba,"('nba playoffs tonight', 'nba playoffs tonight games')",nba playoffs tonight,nba playoffs tonight games,6,2,google,2020-09-14 17:32:32.432277
+nba,"('nba playoffs tonight', 'nba playoffs tonight tv')",nba playoffs tonight,nba playoffs tonight tv,7,2,google,2020-09-14 17:32:32.432277
+nba,"('nba playoffs tonight', 'nba playoffs tonight live stream free')",nba playoffs tonight,nba playoffs tonight live stream free,8,2,google,2020-09-14 17:32:32.432277
+nba,"('nba playoffs tonight', 'nba playoffs tonight on tv 2020')",nba playoffs tonight,nba playoffs tonight on tv 2020,9,2,google,2020-09-14 17:32:32.432277
+nba,"('nba playoffs start', 'nba playoffs start date')",nba playoffs start,nba playoffs start date,1,2,google,2020-09-14 17:32:33.236594
+nba,"('nba playoffs start', 'nba playoffs start date 2020')",nba playoffs start,nba playoffs start date 2020,2,2,google,2020-09-14 17:32:33.236594
+nba,"('nba playoffs start', 'nba playoffs start today')",nba playoffs start,nba playoffs start today,3,2,google,2020-09-14 17:32:33.236594
+nba,"('nba playoffs start', 'nba playoffs start time')",nba playoffs start,nba playoffs start time,4,2,google,2020-09-14 17:32:33.236594
+nba,"('nba playoffs start', 'nba playoffs starting lineups')",nba playoffs start,nba playoffs starting lineups,5,2,google,2020-09-14 17:32:33.236594
+nba,"('nba playoffs start', 'nba playoffs start tonight')",nba playoffs start,nba playoffs start tonight,6,2,google,2020-09-14 17:32:33.236594
+nba,"('nba playoffs start', 'nba playoffs start bubble')",nba playoffs start,nba playoffs start bubble,7,2,google,2020-09-14 17:32:33.236594
+nba,"('nba playoffs start', 'nba playoffs start tomorrow')",nba playoffs start,nba playoffs start tomorrow,8,2,google,2020-09-14 17:32:33.236594
+nba,"('nba playoffs start', 'nba playoffs start back')",nba playoffs start,nba playoffs start back,9,2,google,2020-09-14 17:32:33.236594
+nba,"('nba playoffs start date', 'nba playoffs start date 2020')",nba playoffs start date,nba playoffs start date 2020,1,2,google,2020-09-14 17:32:34.143479
+nba,"('nba playoffs start date', 'nba playoffs start date bubble')",nba playoffs start date,nba playoffs start date bubble,2,2,google,2020-09-14 17:32:34.143479
+nba,"('nba playoffs start date', 'nba playoffs start date 2019')",nba playoffs start date,nba playoffs start date 2019,3,2,google,2020-09-14 17:32:34.143479
+nba,"('nba playoffs start date', 'nba playoffs championship date')",nba playoffs start date,nba playoffs championship date,4,2,google,2020-09-14 17:32:34.143479
+nba,"('nba playoffs start date', 'nba playoffs second round start date')",nba playoffs start date,nba playoffs second round start date,5,2,google,2020-09-14 17:32:34.143479
+nba,"('nba playoffs start date', 'nba playoffs 2019 championship date')",nba playoffs start date,nba playoffs 2019 championship date,6,2,google,2020-09-14 17:32:34.143479
+nba,"('nba playoffs live', 'nba playoffs live stream')",nba playoffs live,nba playoffs live stream,1,2,google,2020-09-14 17:32:34.953469
+nba,"('nba playoffs live', 'nba playoffs live stream reddit')",nba playoffs live,nba playoffs live stream reddit,2,2,google,2020-09-14 17:32:34.953469
+nba,"('nba playoffs live', 'nba playoffs live free')",nba playoffs live,nba playoffs live free,3,2,google,2020-09-14 17:32:34.953469
+nba,"('nba playoffs live', 'nba playoffs live bracket')",nba playoffs live,nba playoffs live bracket,4,2,google,2020-09-14 17:32:34.953469
+nba,"('nba playoffs live', 'nba playoffs live score')",nba playoffs live,nba playoffs live score,5,2,google,2020-09-14 17:32:34.953469
+nba,"('nba playoffs live', 'nba playoffs live free stream')",nba playoffs live,nba playoffs live free stream,6,2,google,2020-09-14 17:32:34.953469
+nba,"('nba playoffs live', 'nba playoffs live stream free online')",nba playoffs live,nba playoffs live stream free online,7,2,google,2020-09-14 17:32:34.953469
+nba,"('nba playoffs live', 'nba playoffs live tnt')",nba playoffs live,nba playoffs live tnt,8,2,google,2020-09-14 17:32:34.953469
+nba,"('nba playoffs live', 'nba playoffs live stream online')",nba playoffs live,nba playoffs live stream online,9,2,google,2020-09-14 17:32:34.953469
+nba,"('nba games live', 'nba games live stream')",nba games live,nba games live stream,1,2,google,2020-09-14 17:32:36.299055
+nba,"('nba games live', 'nba games live today')",nba games live,nba games live today,2,2,google,2020-09-14 17:32:36.299055
+nba,"('nba games live', 'nba games live reddit')",nba games live,nba games live reddit,3,2,google,2020-09-14 17:32:36.299055
+nba,"('nba games live', 'nba games live right now')",nba games live,nba games live right now,4,2,google,2020-09-14 17:32:36.299055
+nba,"('nba games live', 'nba games live online')",nba games live,nba games live online,5,2,google,2020-09-14 17:32:36.299055
+nba,"('nba games live', 'nba games live rn')",nba games live,nba games live rn,6,2,google,2020-09-14 17:32:36.299055
+nba,"('nba games live', 'nba games live stream online')",nba games live,nba games live stream online,7,2,google,2020-09-14 17:32:36.299055
+nba,"('nba games live', 'nba games live tonight')",nba games live,nba games live tonight,8,2,google,2020-09-14 17:32:36.299055
+nba,"('nba games live', 'nba games live channels')",nba games live,nba games live channels,9,2,google,2020-09-14 17:32:36.299055
+nba,"('nba games yesterday', 'nba games yesterday results')",nba games yesterday,nba games yesterday results,1,2,google,2020-09-14 17:32:37.428874
+nba,"('nba games yesterday', 'nba games yesterday highlights')",nba games yesterday,nba games yesterday highlights,2,2,google,2020-09-14 17:32:37.428874
+nba,"('nba games yesterday', 'nba games yesterday times')",nba games yesterday,nba games yesterday times,3,2,google,2020-09-14 17:32:37.428874
+nba,"('nba games yesterday', 'nba games yesterday on tv')",nba games yesterday,nba games yesterday on tv,4,2,google,2020-09-14 17:32:37.428874
+nba,"('nba games yesterday', 'nba games yesterday 2020')",nba games yesterday,nba games yesterday 2020,5,2,google,2020-09-14 17:32:37.428874
+nba,"('nba games yesterday', 'nba games yesterday lakers')",nba games yesterday,nba games yesterday lakers,6,2,google,2020-09-14 17:32:37.428874
+nba,"('nba games yesterday', 'nba games yesterday score')",nba games yesterday,nba games yesterday score,7,2,google,2020-09-14 17:32:37.428874
+nba,"('nba games tonight on tv 2020', 'nba games tonight on tv 2020 playoffs')",nba games tonight on tv 2020,nba games tonight on tv 2020 playoffs,1,2,google,2020-09-14 17:32:38.389312
+nba,"('nba games tonight on tv 2020', 'nba games tonight on tv 2020 aug 30')",nba games tonight on tv 2020,nba games tonight on tv 2020 aug 30,2,2,google,2020-09-14 17:32:38.389312
+nba,"('nba games tonight on tv 2020', 'nba games tonight on tv 2020 september')",nba games tonight on tv 2020,nba games tonight on tv 2020 september,3,2,google,2020-09-14 17:32:38.389312
+nba,"('nba games tonight on tv 2020', 'nba games today on tv 2020')",nba games tonight on tv 2020,nba games today on tv 2020,4,2,google,2020-09-14 17:32:38.389312
+nba,"('nba games today on abc', 'nba games today on abc tonight')",nba games today on abc,nba games today on abc tonight,1,2,google,2020-09-14 17:32:39.772105
+nba,"('nba games today on abc', 'nba games tonight on abc')",nba games today on abc,nba games tonight on abc,2,2,google,2020-09-14 17:32:39.772105
+nba,"('nba games today on abc', 'nba games sunday on abc')",nba games today on abc,nba games sunday on abc,3,2,google,2020-09-14 17:32:39.772105
+nba,"('nba games today on abc', 'nba playoff games today on abc')",nba games today on abc,nba playoff games today on abc,4,2,google,2020-09-14 17:32:39.772105
+nba,"('nba games today on abc', 'nba basketball games today on abc')",nba games today on abc,nba basketball games today on abc,5,2,google,2020-09-14 17:32:39.772105
+nba,"('nba games today on abc', 'any nba games today on abc')",nba games today on abc,any nba games today on abc,6,2,google,2020-09-14 17:32:39.772105
+nba,"('nba games today on abc', 'nba games on abc')",nba games today on abc,nba games on abc,7,2,google,2020-09-14 17:32:39.772105
+nba,"('nba games today on abc', 'nba games on abc 2020')",nba games today on abc,nba games on abc 2020,8,2,google,2020-09-14 17:32:39.772105
+nba,"('nba games today on abc', 'nba games on abc 2019')",nba games today on abc,nba games on abc 2019,9,2,google,2020-09-14 17:32:39.772105
+nba,"('nba games right now', 'nba games right now channel')",nba games right now,nba games right now channel,1,2,google,2020-09-14 17:32:40.690555
+nba,"('nba games right now', 'nba games right now live')",nba games right now,nba games right now live,2,2,google,2020-09-14 17:32:40.690555
+nba,"('nba games right now', 'nba games right now￼')",nba games right now,nba games right now￼,3,2,google,2020-09-14 17:32:40.690555
+nba,"('nba games right now', 'nba playoff games right now')",nba games right now,nba playoff games right now,4,2,google,2020-09-14 17:32:40.690555
+nba,"('nba games right now', 'nba games today right now')",nba games right now,nba games today right now,5,2,google,2020-09-14 17:32:40.690555
+nba,"('nba games right now', 'all nba games right now')",nba games right now,all nba games right now,6,2,google,2020-09-14 17:32:40.690555
+nba,"('nba games right now', 'nba games live right now free')",nba games right now,nba games live right now free,7,2,google,2020-09-14 17:32:40.690555
+nba,"('nba games right now', 'nba summer league games right now')",nba games right now,nba summer league games right now,8,2,google,2020-09-14 17:32:40.690555
+nba,"('nba games right now', 'any nba games going on right now')",nba games right now,any nba games going on right now,9,2,google,2020-09-14 17:32:40.690555
+nba,"('nba games 2020', 'nba games 2020 season')",nba games 2020,nba games 2020 season,1,2,google,2020-09-14 17:32:42.127827
+nba,"('nba games 2020', 'nba games 2020 schedule')",nba games 2020,nba games 2020 schedule,2,2,google,2020-09-14 17:32:42.127827
+nba,"('nba games 2020', 'nba games 2020 tickets')",nba games 2020,nba games 2020 tickets,3,2,google,2020-09-14 17:32:42.127827
+nba,"('nba games 2020', 'nba games 2020 resume')",nba games 2020,nba games 2020 resume,4,2,google,2020-09-14 17:32:42.127827
+nba,"('nba games 2020', 'nba games 2020 today')",nba games 2020,nba games 2020 today,5,2,google,2020-09-14 17:32:42.127827
+nba,"('nba games 2020', 'nba games 2020 on tv')",nba games 2020,nba games 2020 on tv,6,2,google,2020-09-14 17:32:42.127827
+nba,"('nba games 2020', 'nba games 2020 tv schedule')",nba games 2020,nba games 2020 tv schedule,7,2,google,2020-09-14 17:32:42.127827
+nba,"('nba games 2020', 'nba games 2020 live')",nba games 2020,nba games 2020 live,8,2,google,2020-09-14 17:32:42.127827
+nba,"('nba games 2020', 'nba games 2020 channel')",nba games 2020,nba games 2020 channel,9,2,google,2020-09-14 17:32:42.127827
+nba,"('nba games on now', 'nba games on now channel')",nba games on now,nba games on now channel,1,2,google,2020-09-14 17:32:43.146710
+nba,"('nba games on now', 'nba games now on tv')",nba games on now,nba games now on tv,2,2,google,2020-09-14 17:32:43.146710
+nba,"('nba games on now', 'nba basketball games on now')",nba games on now,nba basketball games on now,3,2,google,2020-09-14 17:32:43.146710
+nba,"('nba games on now', 'nba games going on now')",nba games on now,nba games going on now,4,2,google,2020-09-14 17:32:43.146710
+nba,"('nba games on now', 'any nba games on now')",nba games on now,any nba games on now,5,2,google,2020-09-14 17:32:43.146710
+nba,"('nba games on now', 'nba playoff games on now')",nba games on now,nba playoff games on now,6,2,google,2020-09-14 17:32:43.146710
+nba,"('nba games on now', 'live nba games on now')",nba games on now,live nba games on now,7,2,google,2020-09-14 17:32:43.146710
+nba,"('nba games on now', 'nba games on directv now')",nba games on now,nba games on directv now,8,2,google,2020-09-14 17:32:43.146710
+nba,"('nba games on now', 'nba summer league games on now')",nba games on now,nba summer league games on now,9,2,google,2020-09-14 17:32:43.146710
+nba,"('nba games on tv', 'nba games on tv today')",nba games on tv,nba games on tv today,1,2,google,2020-09-14 17:32:44.096822
+nba,"('nba games on tv', 'nba games on tv now')",nba games on tv,nba games on tv now,2,2,google,2020-09-14 17:32:44.096822
+nba,"('nba games on tv', 'nba games on tv schedule')",nba games on tv,nba games on tv schedule,3,2,google,2020-09-14 17:32:44.096822
+nba,"('nba games on tv', 'nba games on tv today scores')",nba games on tv,nba games on tv today scores,4,2,google,2020-09-14 17:32:44.096822
+nba,"('nba games on tv', 'nba games on tv august 2 2020')",nba games on tv,nba games on tv august 2 2020,5,2,google,2020-09-14 17:32:44.096822
+nba,"('nba games on tv', 'nba games on tv channel')",nba games on tv,nba games on tv channel,6,2,google,2020-09-14 17:32:44.096822
+nba,"('nba games on tv', 'nba games on tv july 31 2020')",nba games on tv,nba games on tv july 31 2020,7,2,google,2020-09-14 17:32:44.096822
+nba,"('nba games on tv', 'nba games on tv today 2020')",nba games on tv,nba games on tv today 2020,8,2,google,2020-09-14 17:32:44.096822
+nba,"('nba games on tv', 'nba games on tv august 25 2020')",nba games on tv,nba games on tv august 25 2020,9,2,google,2020-09-14 17:32:44.096822
+nba,"('nba games last night', 'nba games last night highlights')",nba games last night,nba games last night highlights,1,2,google,2020-09-14 17:32:45.115678
+nba,"('nba games last night', 'nba games last night youtube')",nba games last night,nba games last night youtube,2,2,google,2020-09-14 17:32:45.115678
+nba,"('nba games last night', 'nba games last night￼')",nba games last night,nba games last night￼,3,2,google,2020-09-14 17:32:45.115678
+nba,"('nba games last night', 'nba games friday night')",nba games last night,nba games friday night,4,2,google,2020-09-14 17:32:45.115678
+nba,"('nba games last night', 'nba games yesterday night')",nba games last night,nba games yesterday night,5,2,google,2020-09-14 17:32:45.115678
+nba,"('nba games last night', 'nba games latest result')",nba games last night,nba games latest result,6,2,google,2020-09-14 17:32:45.115678
+nba,"('nba games last night', 'nba playoff games last night')",nba games last night,nba playoff games last night,7,2,google,2020-09-14 17:32:45.115678
+nba,"('nba games last night', 'nba preseason games last night')",nba games last night,nba preseason games last night,8,2,google,2020-09-14 17:32:45.115678
+nba,"('nba games last night', 'nba playoff games last night scores')",nba games last night,nba playoff games last night scores,9,2,google,2020-09-14 17:32:45.115678
+nba,"('nba youngboy net worth', 'nba youngboy net worth 2020')",nba youngboy net worth,nba youngboy net worth 2020,1,2,google,2020-09-14 17:32:46.532035
+nba,"('nba youngboy net worth', 'nba youngboy net worth 2018')",nba youngboy net worth,nba youngboy net worth 2018,2,2,google,2020-09-14 17:32:46.532035
+nba,"('nba youngboy net worth', 'nba youngboy net worth 2017')",nba youngboy net worth,nba youngboy net worth 2017,3,2,google,2020-09-14 17:32:46.532035
+nba,"('nba youngboy net worth', 'nba youngboy net worth forbes')",nba youngboy net worth,nba youngboy net worth forbes,4,2,google,2020-09-14 17:32:46.532035
+nba,"('nba youngboy net worth', 'nba youngboy net worth 2019 forbes')",nba youngboy net worth,nba youngboy net worth 2019 forbes,5,2,google,2020-09-14 17:32:46.532035
+nba,"('nba youngboy net worth', 'nba youngboy net worth forbes 2020')",nba youngboy net worth,nba youngboy net worth forbes 2020,6,2,google,2020-09-14 17:32:46.532035
+nba,"('nba youngboy net worth', 'nba youngboy net worth age')",nba youngboy net worth,nba youngboy net worth age,7,2,google,2020-09-14 17:32:46.532035
+nba,"('nba youngboy net worth', 'nba youngboy net worth now')",nba youngboy net worth,nba youngboy net worth now,8,2,google,2020-09-14 17:32:46.532035
+nba,"('nba youngboy net worth', 'nba youngboy net worth over the years')",nba youngboy net worth,nba youngboy net worth over the years,9,2,google,2020-09-14 17:32:46.532035
+nba,"('nba youngboy kids', 'nba youngboy kids ages')",nba youngboy kids,nba youngboy kids ages,1,2,google,2020-09-14 17:32:47.850507
+nba,"('nba youngboy kids', 'nba youngboy kids name')",nba youngboy kids,nba youngboy kids name,2,2,google,2020-09-14 17:32:47.850507
+nba,"('nba youngboy kids', 'nba youngboy kids 2020')",nba youngboy kids,nba youngboy kids 2020,3,2,google,2020-09-14 17:32:47.850507
+nba,"('nba youngboy age', 'nba youngboy age 2020')",nba youngboy age,nba youngboy age 2020,1,2,google,2020-09-14 17:32:48.957876
+nba,"('nba youngboy age', 'nba youngboy age 2016')",nba youngboy age,nba youngboy age 2016,2,2,google,2020-09-14 17:32:48.957876
+nba,"('nba youngboy age', 'nba youngboy age height')",nba youngboy age,nba youngboy age height,3,2,google,2020-09-14 17:32:48.957876
+nba,"('nba youngboy age', 'nba youngboy age 2015')",nba youngboy age,nba youngboy age 2015,4,2,google,2020-09-14 17:32:48.957876
+nba,"('nba youngboy age', 'nba youngboy agent')",nba youngboy age,nba youngboy agent,5,2,google,2020-09-14 17:32:48.957876
+nba,"('nba youngboy age', 'nba youngboy age net worth')",nba youngboy age,nba youngboy age net worth,6,2,google,2020-09-14 17:32:48.957876
+nba,"('nba youngboy age', 'nba youngboy age 16')",nba youngboy age,nba youngboy age 16,7,2,google,2020-09-14 17:32:48.957876
+nba,"('nba youngboy age', 'nba youngboy age 12')",nba youngboy age,nba youngboy age 12,8,2,google,2020-09-14 17:32:48.957876
+nba,"('nba youngboy age', 'nba youngboy age son')",nba youngboy age,nba youngboy age son,9,2,google,2020-09-14 17:32:48.957876
+nba,"('nba youngboy net worth 2020', 'nba youngboy net worth 2020 forbes')",nba youngboy net worth 2020,nba youngboy net worth 2020 forbes,1,2,google,2020-09-14 17:32:49.961122
+nba,"('nba youngboy height', 'nba youngboy height and weight')",nba youngboy height,nba youngboy height and weight,1,2,google,2020-09-14 17:32:50.971195
+nba,"('nba youngboy height', 'nba youngboy height 2020')",nba youngboy height,nba youngboy height 2020,2,2,google,2020-09-14 17:32:50.971195
+nba,"('nba youngboy height', 'nba youngboy height in feet')",nba youngboy height,nba youngboy height in feet,3,2,google,2020-09-14 17:32:50.971195
+nba,"('nba youngboy height', 'nba youngboy height in ft')",nba youngboy height,nba youngboy height in ft,4,2,google,2020-09-14 17:32:50.971195
+nba,"('nba youngboy merch', 'nba youngboy merchandise')",nba youngboy merch,nba youngboy merchandise,1,2,google,2020-09-14 17:32:51.728240
+nba,"('nba youngboy merch', 'nba youngboy merch cheap')",nba youngboy merch,nba youngboy merch cheap,2,2,google,2020-09-14 17:32:51.728240
+nba,"('nba youngboy merch', 'nba youngboy merch shoes')",nba youngboy merch,nba youngboy merch shoes,3,2,google,2020-09-14 17:32:51.728240
+nba,"('nba youngboy merch', 'nba youngboy merch amazon')",nba youngboy merch,nba youngboy merch amazon,4,2,google,2020-09-14 17:32:51.728240
+nba,"('nba youngboy merch', 'nba youngboy merch backpack')",nba youngboy merch,nba youngboy merch backpack,5,2,google,2020-09-14 17:32:51.728240
+nba,"('nba youngboy merch', 'nba youngboy merch hibbett sports')",nba youngboy merch,nba youngboy merch hibbett sports,6,2,google,2020-09-14 17:32:51.728240
+nba,"('nba youngboy merch', 'nba youngboy merch 2020')",nba youngboy merch,nba youngboy merch 2020,7,2,google,2020-09-14 17:32:51.728240
+nba,"('nba youngboy merch', 'nba youngboy merch ski mask')",nba youngboy merch,nba youngboy merch ski mask,8,2,google,2020-09-14 17:32:51.728240
+nba,"('nba youngboy merch', 'nba youngboy merch slatt')",nba youngboy merch,nba youngboy merch slatt,9,2,google,2020-09-14 17:32:51.728240
+nba,"('nba youngboy quotes', 'nba youngboy quotes about love')",nba youngboy quotes,nba youngboy quotes about love,1,2,google,2020-09-14 17:32:53.079111
+nba,"('nba youngboy quotes', 'nba youngboy quotes sad')",nba youngboy quotes,nba youngboy quotes sad,2,2,google,2020-09-14 17:32:53.079111
+nba,"('nba youngboy quotes', 'nba youngboy quotes no love')",nba youngboy quotes,nba youngboy quotes no love,3,2,google,2020-09-14 17:32:53.079111
+nba,"('nba youngboy quotes', 'nba youngboy quotes about trust')",nba youngboy quotes,nba youngboy quotes about trust,4,2,google,2020-09-14 17:32:53.079111
+nba,"('nba youngboy quotes', 'nba youngboy quotes twitter')",nba youngboy quotes,nba youngboy quotes twitter,5,2,google,2020-09-14 17:32:53.079111
+nba,"('nba youngboy quotes', 'nba youngboy quotes about relationships')",nba youngboy quotes,nba youngboy quotes about relationships,6,2,google,2020-09-14 17:32:53.079111
+nba,"('nba youngboy quotes', 'nba youngboy quotes fake friends')",nba youngboy quotes,nba youngboy quotes fake friends,7,2,google,2020-09-14 17:32:53.079111
+nba,"('nba youngboy quotes', 'nba youngboy quotes about loyalty')",nba youngboy quotes,nba youngboy quotes about loyalty,8,2,google,2020-09-14 17:32:53.079111
+nba,"('nba youngboy quotes', 'nba youngboy quotes about family')",nba youngboy quotes,nba youngboy quotes about family,9,2,google,2020-09-14 17:32:53.079111
+nba,"('nba youngboy instagram', 'nba youngboy instagram name')",nba youngboy instagram,nba youngboy instagram name,1,2,google,2020-09-14 17:32:54.129436
+nba,"('nba youngboy instagram', 'nba youngboy instagram captions')",nba youngboy instagram,nba youngboy instagram captions,2,2,google,2020-09-14 17:32:54.129436
+nba,"('nba youngboy instagram', 'nba youngboy instagram pictures')",nba youngboy instagram,nba youngboy instagram pictures,3,2,google,2020-09-14 17:32:54.129436
+nba,"('nba youngboy instagram', 'nba youngboy instagram account')",nba youngboy instagram,nba youngboy instagram account,4,2,google,2020-09-14 17:32:54.129436
+nba,"('nba youngboy instagram', 'nba youngboy instagram quotes')",nba youngboy instagram,nba youngboy instagram quotes,5,2,google,2020-09-14 17:32:54.129436
+nba,"('nba youngboy instagram', 'nba youngboy instagram deleted')",nba youngboy instagram,nba youngboy instagram deleted,6,2,google,2020-09-14 17:32:54.129436
+nba,"('nba youngboy instagram', 'nba youngboy instagram posts')",nba youngboy instagram,nba youngboy instagram posts,7,2,google,2020-09-14 17:32:54.129436
+nba,"('nba youngboy instagram', 'nba youngboy instagram pics')",nba youngboy instagram,nba youngboy instagram pics,8,2,google,2020-09-14 17:32:54.129436
+nba,"('nba youngboy instagram', 'nba youngboy instagram password')",nba youngboy instagram,nba youngboy instagram password,9,2,google,2020-09-14 17:32:54.129436
+nba,"('nba youngboy lyrics', 'nba youngboy lyrics death enclaimed')",nba youngboy lyrics,nba youngboy lyrics death enclaimed,1,2,google,2020-09-14 17:32:55.338794
+nba,"('nba youngboy lyrics', 'nba youngboy lyrics all in')",nba youngboy lyrics,nba youngboy lyrics all in,2,2,google,2020-09-14 17:32:55.338794
+nba,"('nba youngboy lyrics', 'nba youngboy lyrics bad bad')",nba youngboy lyrics,nba youngboy lyrics bad bad,3,2,google,2020-09-14 17:32:55.338794
+nba,"('nba youngboy lyrics', 'nba youngboy lyrics about love')",nba youngboy lyrics,nba youngboy lyrics about love,4,2,google,2020-09-14 17:32:55.338794
+nba,"('nba youngboy lyrics', 'nba youngboy lyrics ride')",nba youngboy lyrics,nba youngboy lyrics ride,5,2,google,2020-09-14 17:32:55.338794
+nba,"('nba youngboy lyrics', 'nba youngboy lyrics lil top')",nba youngboy lyrics,nba youngboy lyrics lil top,6,2,google,2020-09-14 17:32:55.338794
+nba,"('nba youngboy lyrics', 'nba youngboy lyrics genie')",nba youngboy lyrics,nba youngboy lyrics genie,7,2,google,2020-09-14 17:32:55.338794
+nba,"('nba youngboy lyrics', 'nba youngboy lyrics nurse')",nba youngboy lyrics,nba youngboy lyrics nurse,8,2,google,2020-09-14 17:32:55.338794
+nba,"('nba youngboy lyrics', 'nba youngboy lyrics uncharted love')",nba youngboy lyrics,nba youngboy lyrics uncharted love,9,2,google,2020-09-14 17:32:55.338794
+nba,"('nba standings 2020', 'nba standings 2020 bubble')",nba standings 2020,nba standings 2020 bubble,1,2,google,2020-09-14 17:32:56.108405
+nba,"('nba standings 2020', 'nba standings 2020 west')",nba standings 2020,nba standings 2020 west,2,2,google,2020-09-14 17:32:56.108405
+nba,"('nba standings 2020', 'nba standings 2020-21')",nba standings 2020,nba standings 2020-21,3,2,google,2020-09-14 17:32:56.108405
+nba,"('nba standings 2020', 'nba standings 2020 playoff picture')",nba standings 2020,nba standings 2020 playoff picture,4,2,google,2020-09-14 17:32:56.108405
+nba,"('nba standings 2020', 'nba standings 2020 playoff')",nba standings 2020,nba standings 2020 playoff,5,2,google,2020-09-14 17:32:56.108405
+nba,"('nba standings 2020', 'nba standings 2020 western conference')",nba standings 2020,nba standings 2020 western conference,6,2,google,2020-09-14 17:32:56.108405
+nba,"('nba standings 2020', 'nba standings 2020 restart')",nba standings 2020,nba standings 2020 restart,7,2,google,2020-09-14 17:32:56.108405
+nba,"('nba standings 2020', 'nba standings 20202')",nba standings 2020,nba standings 20202,8,2,google,2020-09-14 17:32:56.108405
+nba,"('nba standings 2020', 'nba standings 2020 orlando')",nba standings 2020,nba standings 2020 orlando,9,2,google,2020-09-14 17:32:56.108405
+nba,"('nba standings bubble', 'nba standings bubble teams')",nba standings bubble,nba standings bubble teams,1,2,google,2020-09-14 17:32:56.871645
+nba,"('nba standings bubble', 'nba standings bubble 2020')",nba standings bubble,nba standings bubble 2020,2,2,google,2020-09-14 17:32:56.871645
+nba,"('nba standings bubble', 'nba standings bubble playoffs')",nba standings bubble,nba standings bubble playoffs,3,2,google,2020-09-14 17:32:56.871645
+nba,"('nba standings bubble', 'nba standings bubble teams 2020')",nba standings bubble,nba standings bubble teams 2020,4,2,google,2020-09-14 17:32:56.871645
+nba,"('nba standings bubble', 'nba standings bubble schedule')",nba standings bubble,nba standings bubble schedule,5,2,google,2020-09-14 17:32:56.871645
+nba,"('nba standings bubble', 'nba standings bubble today')",nba standings bubble,nba standings bubble today,6,2,google,2020-09-14 17:32:56.871645
+nba,"('nba standings bubble', 'nba standings bubble western conference')",nba standings bubble,nba standings bubble western conference,7,2,google,2020-09-14 17:32:56.871645
+nba,"('nba standings bubble', 'nba standings bubble east')",nba standings bubble,nba standings bubble east,8,2,google,2020-09-14 17:32:56.871645
+nba,"('nba standings bubble', 'nba standings bubble records')",nba standings bubble,nba standings bubble records,9,2,google,2020-09-14 17:32:56.871645
+nba,"('nba standings west', 'nba standings western conference')",nba standings west,nba standings western conference,1,2,google,2020-09-14 17:32:57.925436
+nba,"('nba standings west', 'nba standings west conference')",nba standings west,nba standings west conference,2,2,google,2020-09-14 17:32:57.925436
+nba,"('nba standings west', 'nba standings western 2020')",nba standings west,nba standings western 2020,3,2,google,2020-09-14 17:32:57.925436
+nba,"('nba standings west', 'nba standings west playoffs')",nba standings west,nba standings west playoffs,4,2,google,2020-09-14 17:32:57.925436
+nba,"('nba standings west', 'nba standings west 8th seed')",nba standings west,nba standings west 8th seed,5,2,google,2020-09-14 17:32:57.925436
+nba,"('nba standings west', 'nba standings west 2019-20')",nba standings west,nba standings west 2019-20,6,2,google,2020-09-14 17:32:57.925436
+nba,"('nba standings west', 'nba standings west conference 2020')",nba standings west,nba standings west conference 2020,7,2,google,2020-09-14 17:32:57.925436
+nba,"('nba standings west', 'nba standings west play in')",nba standings west,nba standings west play in,8,2,google,2020-09-14 17:32:57.925436
+nba,"('nba standings west', 'nba standings west bubble')",nba standings west,nba standings west bubble,9,2,google,2020-09-14 17:32:57.925436
+nba,"('nba standings 2018', 'nba standings 2018-19 season')",nba standings 2018,nba standings 2018-19 season,1,2,google,2020-09-14 17:32:58.720008
+nba,"('nba standings 2018', 'nba standings 2018 season')",nba standings 2018,nba standings 2018 season,2,2,google,2020-09-14 17:32:58.720008
+nba,"('nba standings 2018', 'nba standings 2018 playoffs')",nba standings 2018,nba standings 2018 playoffs,3,2,google,2020-09-14 17:32:58.720008
+nba,"('nba standings 2018', 'nba standings 2018-19 playoffs')",nba standings 2018,nba standings 2018-19 playoffs,4,2,google,2020-09-14 17:32:58.720008
+nba,"('nba standings 2018', 'nba standings 2018 to 2019 season')",nba standings 2018,nba standings 2018 to 2019 season,5,2,google,2020-09-14 17:32:58.720008
+nba,"('nba standings 2018', 'nba standings 2018 to 2019 playoffs')",nba standings 2018,nba standings 2018 to 2019 playoffs,6,2,google,2020-09-14 17:32:58.720008
+nba,"('nba standings 2018', 'nba standings 2018 regular season')",nba standings 2018,nba standings 2018 regular season,7,2,google,2020-09-14 17:32:58.720008
+nba,"('nba standings 2018', 'nba standings 2018-19 western conference')",nba standings 2018,nba standings 2018-19 western conference,8,2,google,2020-09-14 17:32:58.720008
+nba,"('nba standings 2018', 'nba standings 2018/19')",nba standings 2018,nba standings 2018/19,9,2,google,2020-09-14 17:32:58.720008
+nba,"('nba standings espn', 'nba standings espn bracket')",nba standings espn,nba standings espn bracket,1,2,google,2020-09-14 17:32:59.487556
+nba,"('nba standings espn', 'nba ranking espn')",nba standings espn,nba ranking espn,2,2,google,2020-09-14 17:32:59.487556
+nba,"('nba standings espn', 'nba scores standings espn')",nba standings espn,nba scores standings espn,3,2,google,2020-09-14 17:32:59.487556
+nba,"('nba standings espn', 'nba projected standings espn')",nba standings espn,nba projected standings espn,4,2,google,2020-09-14 17:32:59.487556
+nba,"('nba standings espn', 'nba player standings espn')",nba standings espn,nba player standings espn,5,2,google,2020-09-14 17:32:59.487556
+nba,"('nba standings espn', '2015 nba standings espn')",nba standings espn,2015 nba standings espn,6,2,google,2020-09-14 17:32:59.487556
+nba,"('nba standings espn', '2013 nba standings espn')",nba standings espn,2013 nba standings espn,7,2,google,2020-09-14 17:32:59.487556
+nba,"('nba standings espn', 'ranking nba espn 2019')",nba standings espn,ranking nba espn 2019,8,2,google,2020-09-14 17:32:59.487556
+nba,"('nba standings espn', 'nba standings predictions 2020 espn')",nba standings espn,nba standings predictions 2020 espn,9,2,google,2020-09-14 17:32:59.487556
+nba,"('nba standings 2017', 'nba standings 2017 playoffs')",nba standings 2017,nba standings 2017 playoffs,1,2,google,2020-09-14 17:33:00.780672
+nba,"('nba standings 2017', 'nba standings 2017-18 playoffs')",nba standings 2017,nba standings 2017-18 playoffs,2,2,google,2020-09-14 17:33:00.780672
+nba,"('nba standings 2017', 'nba standings 2017-18 espn')",nba standings 2017,nba standings 2017-18 espn,3,2,google,2020-09-14 17:33:00.780672
+nba,"('nba standings 2017', 'nba standings 2017 playoffs bracket')",nba standings 2017,nba standings 2017 playoffs bracket,4,2,google,2020-09-14 17:33:00.780672
+nba,"('nba standings 2017', 'nba standings 2017 east and west')",nba standings 2017,nba standings 2017 east and west,5,2,google,2020-09-14 17:33:00.780672
+nba,"('nba standings 2017', 'nba standings 2017 overall')",nba standings 2017,nba standings 2017 overall,6,2,google,2020-09-14 17:33:00.780672
+nba,"('nba standings 2017', 'nba ranking 2017-18')",nba standings 2017,nba ranking 2017-18,7,2,google,2020-09-14 17:33:00.780672
+nba,"('nba standings 2017', 'nba west standings 2017')",nba standings 2017,nba west standings 2017,8,2,google,2020-09-14 17:33:00.780672
+nba,"('nba standings 2017', 'nba east standings 2017')",nba standings 2017,nba east standings 2017,9,2,google,2020-09-14 17:33:00.780672
+nba,"('nba standings 2020 bubble', 'nba standings 2020 bubble teams')",nba standings 2020 bubble,nba standings 2020 bubble teams,1,2,google,2020-09-14 17:33:01.963990
+nba,"('nba standings bracket', 'nba standings bracket 2020')",nba standings bracket,nba standings bracket 2020,1,2,google,2020-09-14 17:33:03.263799
+nba,"('nba standings bracket', 'nba standings bracket playoffs 2019')",nba standings bracket,nba standings bracket playoffs 2019,2,2,google,2020-09-14 17:33:03.263799
+nba,"('nba standings bracket', 'current nba standings bracket')",nba standings bracket,current nba standings bracket,3,2,google,2020-09-14 17:33:03.263799
+nba,"('nba standings bracket', 'nba standings playoffs 2019 bracket as of today')",nba standings bracket,nba standings playoffs 2019 bracket as of today,4,2,google,2020-09-14 17:33:03.263799
+nba,"('nba standings bracket', 'nba standings playoffs 2011 bracket')",nba standings bracket,nba standings playoffs 2011 bracket,5,2,google,2020-09-14 17:33:03.263799
+nba,"('nba standings bracket', 'nba standings 2018 playoffs bracket')",nba standings bracket,nba standings 2018 playoffs bracket,6,2,google,2020-09-14 17:33:03.263799
+nba,"('nba standings bracket', 'nba standings playoffs 2012 bracket')",nba standings bracket,nba standings playoffs 2012 bracket,7,2,google,2020-09-14 17:33:03.263799
+nba,"('nba standings bracket', 'nba standings 2017 playoffs bracket')",nba standings bracket,nba standings 2017 playoffs bracket,8,2,google,2020-09-14 17:33:03.263799
+nba,"('nba standings bracket', 'nba standings playoffs 2014 bracket')",nba standings bracket,nba standings playoffs 2014 bracket,9,2,google,2020-09-14 17:33:03.263799
+nba,"('nba standings 2016', 'nba standings 2016-17')",nba standings 2016,nba standings 2016-17,1,2,google,2020-09-14 17:33:04.481045
+nba,"('nba standings 2016', 'nba standings 2016 playoffs')",nba standings 2016,nba standings 2016 playoffs,2,2,google,2020-09-14 17:33:04.481045
+nba,"('nba standings 2016', 'nba standings 2016 season')",nba standings 2016,nba standings 2016 season,3,2,google,2020-09-14 17:33:04.481045
+nba,"('nba standings 2016', 'nba standings 2016 17 espn')",nba standings 2016,nba standings 2016 17 espn,4,2,google,2020-09-14 17:33:04.481045
+nba,"('nba standings 2016', 'nba standings 2016 west')",nba standings 2016,nba standings 2016 west,5,2,google,2020-09-14 17:33:04.481045
+nba,"('nba standings 2016', 'nba ranking 2016')",nba standings 2016,nba ranking 2016,6,2,google,2020-09-14 17:33:04.481045
+nba,"('nba standings 2016', 'nba east standings 2016')",nba standings 2016,nba east standings 2016,7,2,google,2020-09-14 17:33:04.481045
+nba,"('nba standings 2016', 'nba final standings 2016')",nba standings 2016,nba final standings 2016,8,2,google,2020-09-14 17:33:04.481045
+nba,"('nba standings 2016', 'nba league standings 2016-17')",nba standings 2016,nba league standings 2016-17,9,2,google,2020-09-14 17:33:04.481045
+nba,"('nba today game', 'nba today games on tv')",nba today game,nba today games on tv,1,2,google,2020-09-14 17:33:05.426773
+nba,"('nba today game', 'nba today games results')",nba today game,nba today games results,2,2,google,2020-09-14 17:33:05.426773
+nba,"('nba today game', 'nba today games schedule')",nba today game,nba today games schedule,3,2,google,2020-09-14 17:33:05.426773
+nba,"('nba today game', 'nba today game channel')",nba today game,nba today game channel,4,2,google,2020-09-14 17:33:05.426773
+nba,"('nba today game', 'nba today games predictions')",nba today game,nba today games predictions,5,2,google,2020-09-14 17:33:05.426773
+nba,"('nba today game', 'nba today games scores')",nba today game,nba today games scores,6,2,google,2020-09-14 17:33:05.426773
+nba,"('nba today game', 'nba today games live')",nba today game,nba today games live,7,2,google,2020-09-14 17:33:05.426773
+nba,"('nba today game', 'nba today game time')",nba today game,nba today game time,8,2,google,2020-09-14 17:33:05.426773
+nba,"('nba today game', 'nba today games odds sharks')",nba today game,nba today games odds sharks,9,2,google,2020-09-14 17:33:05.426773
+nba,"('nba today scores', 'nba scores today golden state warriors')",nba today scores,nba scores today golden state warriors,1,2,google,2020-09-14 17:33:06.834442
+nba,"('nba today scores', 'nba scores today lakers')",nba today scores,nba scores today lakers,2,2,google,2020-09-14 17:33:06.834442
+nba,"('nba today scores', 'nba scores today scrimmage')",nba today scores,nba scores today scrimmage,3,2,google,2020-09-14 17:33:06.834442
+nba,"('nba today scores', 'nba scores today live streaming')",nba today scores,nba scores today live streaming,4,2,google,2020-09-14 17:33:06.834442
+nba,"('nba today scores', 'nba scores today lakers vs clippers')",nba today scores,nba scores today lakers vs clippers,5,2,google,2020-09-14 17:33:06.834442
+nba,"('nba today scores', 'nba scores today and standings')",nba today scores,nba scores today and standings,6,2,google,2020-09-14 17:33:06.834442
+nba,"('nba today scores', 'nba scores today cbs')",nba today scores,nba scores today cbs,7,2,google,2020-09-14 17:33:06.834442
+nba,"('nba today scores', 'nba scores today yahoo')",nba today scores,nba scores today yahoo,8,2,google,2020-09-14 17:33:06.834442
+nba,"('nba today scores', 'nba scores today google')",nba today scores,nba scores today google,9,2,google,2020-09-14 17:33:06.834442
+nba,"('nba today on tv', 'nba games today on tv')",nba today on tv,nba games today on tv,1,2,google,2020-09-14 17:33:07.627976
+nba,"('nba today on tv', 'nba playoffs today on tv')",nba today on tv,nba playoffs today on tv,2,2,google,2020-09-14 17:33:07.627976
+nba,"('nba today on tv', 'nba games today on tv canada')",nba today on tv,nba games today on tv canada,3,2,google,2020-09-14 17:33:07.627976
+nba,"('nba today on tv', 'nba games today on tv philippine time')",nba today on tv,nba games today on tv philippine time,4,2,google,2020-09-14 17:33:07.627976
+nba,"('nba today on tv', 'nba scrimmages today on tv')",nba today on tv,nba scrimmages today on tv,5,2,google,2020-09-14 17:33:07.627976
+nba,"('nba today on tv', 'nba today on canadian tv')",nba today on tv,nba today on canadian tv,6,2,google,2020-09-14 17:33:07.627976
+nba,"('nba today on tv', 'nba live today on tv')",nba today on tv,nba live today on tv,7,2,google,2020-09-14 17:33:07.627976
+nba,"('nba today on tv', 'nba basketball games today on tv')",nba today on tv,nba basketball games today on tv,8,2,google,2020-09-14 17:33:07.627976
+nba,"('nba today on tv', 'nba on directv today')",nba today on tv,nba on directv today,9,2,google,2020-09-14 17:33:07.627976
+nba,"('nba today channel', 'nba playoffs today channel')",nba today channel,nba playoffs today channel,1,2,google,2020-09-14 17:33:08.802884
+nba,"('nba today channel', 'nba games today channel spectrum')",nba today channel,nba games today channel spectrum,2,2,google,2020-09-14 17:33:08.802884
+nba,"('nba today channel', 'nba scrimmages today channel')",nba today channel,nba scrimmages today channel,3,2,google,2020-09-14 17:33:08.802884
+nba,"('nba today channel', 'nba game today channel directv')",nba today channel,nba game today channel directv,4,2,google,2020-09-14 17:33:08.802884
+nba,"('nba today channel', 'nba games today channel 23')",nba today channel,nba games today channel 23,5,2,google,2020-09-14 17:33:08.802884
+nba,"('nba today channel', 'nba games today channel at&t')",nba today channel,nba games today channel at&t,6,2,google,2020-09-14 17:33:08.802884
+nba,"('nba today channel', 'nba live today channel')",nba today channel,nba live today channel,7,2,google,2020-09-14 17:33:08.802884
+nba,"('nba today channel', 'nba games today channel dish')",nba today channel,nba games today channel dish,8,2,google,2020-09-14 17:33:08.802884
+nba,"('nba today channel', 'nba games today channel number')",nba today channel,nba games today channel number,9,2,google,2020-09-14 17:33:08.802884
+nba,"('nba today on abc', 'nba basketball today on abc')",nba today on abc,nba basketball today on abc,1,2,google,2020-09-14 17:33:10.200585
+nba,"('nba today on abc', 'nba playoffs today on abc')",nba today on abc,nba playoffs today on abc,2,2,google,2020-09-14 17:33:10.200585
+nba,"('nba today on abc', 'nba games today on abc tonight')",nba today on abc,nba games today on abc tonight,3,2,google,2020-09-14 17:33:10.200585
+nba,"('nba today on abc', 'nba playoff games today on abc')",nba today on abc,nba playoff games today on abc,4,2,google,2020-09-14 17:33:10.200585
+nba,"('nba today on abc', 'any nba games today on abc')",nba today on abc,any nba games today on abc,5,2,google,2020-09-14 17:33:10.200585
+nba,"('nba today live', 'nba today live stream')",nba today live,nba today live stream,1,2,google,2020-09-14 17:33:11.264791
+nba,"('nba today live', 'nba today live score')",nba today live,nba today live score,2,2,google,2020-09-14 17:33:11.264791
+nba,"('nba today live', 'nba today live match')",nba today live,nba today live match,3,2,google,2020-09-14 17:33:11.264791
+nba,"('nba today live', 'nba today live 2020')",nba today live,nba today live 2020,4,2,google,2020-09-14 17:33:11.264791
+nba,"('nba today live', 'nba today live 2019')",nba today live,nba today live 2019,5,2,google,2020-09-14 17:33:11.264791
+nba,"('nba today live', 'nba today live stream free')",nba today live,nba today live stream free,6,2,google,2020-09-14 17:33:11.264791
+nba,"('nba today live', 'nba today live online')",nba today live,nba today live online,7,2,google,2020-09-14 17:33:11.264791
+nba,"('nba today live', 'nba live today lakers')",nba today live,nba live today lakers,8,2,google,2020-09-14 17:33:11.264791
+nba,"('nba today live', 'nba live today game 6')",nba today live,nba live today game 6,9,2,google,2020-09-14 17:33:11.264791
+nba,"('nba today predictions', 'nba predictions today cbs')",nba today predictions,nba predictions today cbs,1,2,google,2020-09-14 17:33:13.495165
+nba,"('nba today predictions', 'dream11 nba prediction today')",nba today predictions,dream11 nba prediction today,2,2,google,2020-09-14 17:33:13.495165
+nba,"('nba today predictions', 'nba predictions today covers')",nba today predictions,nba predictions today covers,3,2,google,2020-09-14 17:33:13.495165
+nba,"('nba today predictions', 'nba predictions today games')",nba today predictions,nba predictions today games,4,2,google,2020-09-14 17:33:13.495165
+nba,"('nba today predictions', 'nba predictions today picks and parlays')",nba today predictions,nba predictions today picks and parlays,5,2,google,2020-09-14 17:33:13.495165
+nba,"('nba today predictions', 'nba predictions today reddit')",nba today predictions,nba predictions today reddit,6,2,google,2020-09-14 17:33:13.495165
+nba,"('nba today predictions', 'nba predictions today pickpapa')",nba today predictions,nba predictions today pickpapa,7,2,google,2020-09-14 17:33:13.495165
+nba,"('nba today predictions', 'nba predictions today winners and whiners')",nba today predictions,nba predictions today winners and whiners,8,2,google,2020-09-14 17:33:13.495165
+nba,"('nba today predictions', 'nba predictions today espn')",nba today predictions,nba predictions today espn,9,2,google,2020-09-14 17:33:13.495165
+nba,"('nba 2k21 release date', 'nba 2k21 release date ps4')",nba 2k21 release date,nba 2k21 release date ps4,1,2,google,2020-09-14 17:33:15.910081
+nba,"('nba 2k21 release date', 'nba 2k21 release date ps5')",nba 2k21 release date,nba 2k21 release date ps5,2,2,google,2020-09-14 17:33:15.910081
+nba,"('nba 2k21 release date', 'nba 2k21 release date xbox one')",nba 2k21 release date,nba 2k21 release date xbox one,3,2,google,2020-09-14 17:33:15.910081
+nba,"('nba 2k21 release date', 'nba 2k21 release date switch')",nba 2k21 release date,nba 2k21 release date switch,4,2,google,2020-09-14 17:33:15.910081
+nba,"('nba 2k21 release date', 'nba 2k21 release date 2020')",nba 2k21 release date,nba 2k21 release date 2020,5,2,google,2020-09-14 17:33:15.910081
+nba,"('nba 2k21 release date', 'nba 2k21 release date pc')",nba 2k21 release date,nba 2k21 release date pc,6,2,google,2020-09-14 17:33:15.910081
+nba,"('nba 2k21 release date', 'nba 2k21 release date pre order')",nba 2k21 release date,nba 2k21 release date pre order,7,2,google,2020-09-14 17:33:15.910081
+nba,"('nba 2k21 release date', 'nba 2k21 release date price')",nba 2k21 release date,nba 2k21 release date price,8,2,google,2020-09-14 17:33:15.910081
+nba,"('nba 2k21 release date', 'nba 2k21 release date prelude')",nba 2k21 release date,nba 2k21 release date prelude,9,2,google,2020-09-14 17:33:15.910081
+nba,"('nba 2k21 locker codes', 'nba 2k21 locker codes vc')",nba 2k21 locker codes,nba 2k21 locker codes vc,1,2,google,2020-09-14 17:33:17.312091
+nba,"('nba 2k21 locker codes', 'nba 2k21 locker codes twitter')",nba 2k21 locker codes,nba 2k21 locker codes twitter,2,2,google,2020-09-14 17:33:17.312091
+nba,"('nba 2k21 locker codes', 'nba 2k21 locker codes not working')",nba 2k21 locker codes,nba 2k21 locker codes not working,3,2,google,2020-09-14 17:33:17.312091
+nba,"('nba 2k21 locker codes', 'nba 2k21 locker codes vc ps4')",nba 2k21 locker codes,nba 2k21 locker codes vc ps4,4,2,google,2020-09-14 17:33:17.312091
+nba,"('nba 2k21 locker codes', 'nba 2k21 locker codes ps4')",nba 2k21 locker codes,nba 2k21 locker codes ps4,5,2,google,2020-09-14 17:33:17.312091
+nba,"('nba 2k21 locker codes', 'nba 2k21 locker codes instagram')",nba 2k21 locker codes,nba 2k21 locker codes instagram,6,2,google,2020-09-14 17:33:17.312091
+nba,"('nba 2k21 locker codes', ""nba 2k21 locker codes that don't expire"")",nba 2k21 locker codes,nba 2k21 locker codes that don't expire,7,2,google,2020-09-14 17:33:17.312091
+nba,"('nba 2k21 locker codes', 'nba 2k21 locker codes xbox one')",nba 2k21 locker codes,nba 2k21 locker codes xbox one,8,2,google,2020-09-14 17:33:17.312091
+nba,"('nba 2k21 locker codes', 'nba 2k21 locker codes today')",nba 2k21 locker codes,nba 2k21 locker codes today,9,2,google,2020-09-14 17:33:17.312091
+nba,"('nba 2k21 update', 'nba 2k21 update today')",nba 2k21 update,nba 2k21 update today,1,2,google,2020-09-14 17:33:18.639035
+nba,"('nba 2k21 update', 'nba 2k21 update notes')",nba 2k21 update,nba 2k21 update notes,2,2,google,2020-09-14 17:33:18.639035
+nba,"('nba 2k21 update', 'nba 2k21 update 1.01')",nba 2k21 update,nba 2k21 update 1.01,3,2,google,2020-09-14 17:33:18.639035
+nba,"('nba 2k21 update', 'nba 2k21 update size')",nba 2k21 update,nba 2k21 update size,4,2,google,2020-09-14 17:33:18.639035
+nba,"('nba 2k21 update', 'nba 2k21 update 1.02')",nba 2k21 update,nba 2k21 update 1.02,5,2,google,2020-09-14 17:33:18.639035
+nba,"('nba 2k21 update', 'nba 2k21 update version 1.02')",nba 2k21 update,nba 2k21 update version 1.02,6,2,google,2020-09-14 17:33:18.639035
+nba,"('nba 2k21 update', 'nba 2k21 update ps4')",nba 2k21 update,nba 2k21 update ps4,7,2,google,2020-09-14 17:33:18.639035
+nba,"('nba 2k21 update', 'nba 2k21 update pc')",nba 2k21 update,nba 2k21 update pc,8,2,google,2020-09-14 17:33:18.639035
+nba,"('nba 2k21 update', 'nba 2k21 update xbox one')",nba 2k21 update,nba 2k21 update xbox one,9,2,google,2020-09-14 17:33:18.639035
+nba,"('nba 2k21 patch', 'nba 2k21 patch notes')",nba 2k21 patch,nba 2k21 patch notes,1,2,google,2020-09-14 17:33:19.716193
+nba,"('nba 2k21 patch', 'nba 2k21 patch 1.02')",nba 2k21 patch,nba 2k21 patch 1.02,2,2,google,2020-09-14 17:33:19.716193
+nba,"('nba 2k21 patch', 'nba 2k21 patch notes 1.02')",nba 2k21 patch,nba 2k21 patch notes 1.02,3,2,google,2020-09-14 17:33:19.716193
+nba,"('nba 2k21 patch', 'nba 2k21 patch 2')",nba 2k21 patch,nba 2k21 patch 2,4,2,google,2020-09-14 17:33:19.716193
+nba,"('nba 2k21 patch', 'nba 2k21 patch 3')",nba 2k21 patch,nba 2k21 patch 3,5,2,google,2020-09-14 17:33:19.716193
+nba,"('nba 2k21 patch', 'nba 2k21 patch 1.01')",nba 2k21 patch,nba 2k21 patch 1.01,6,2,google,2020-09-14 17:33:19.716193
+nba,"('nba 2k21 patch', 'nba 2k21 patch notes today')",nba 2k21 patch,nba 2k21 patch notes today,7,2,google,2020-09-14 17:33:19.716193
+nba,"('nba 2k21 patch', 'nba 2k21 patch 2 notes')",nba 2k21 patch,nba 2k21 patch 2 notes,8,2,google,2020-09-14 17:33:19.716193
+nba,"('nba 2k21 patch', 'nba 2k21 patch update')",nba 2k21 patch,nba 2k21 patch update,9,2,google,2020-09-14 17:33:19.716193
+nba,"('nba 2k21 patch 1.02', 'nba 2k21 patch 1.02 notes')",nba 2k21 patch 1.02,nba 2k21 patch 1.02 notes,1,2,google,2020-09-14 17:33:20.510770
+nba,"('nba 2k21 release', 'nba 2k21 release date')",nba 2k21 release,nba 2k21 release date,1,2,google,2020-09-14 17:33:21.770314
+nba,"('nba 2k21 release', 'nba 2k21 release date ps4')",nba 2k21 release,nba 2k21 release date ps4,2,2,google,2020-09-14 17:33:21.770314
+nba,"('nba 2k21 release', 'nba 2k21 release date ps5')",nba 2k21 release,nba 2k21 release date ps5,3,2,google,2020-09-14 17:33:21.770314
+nba,"('nba 2k21 release', 'nba 2k21 release date xbox one')",nba 2k21 release,nba 2k21 release date xbox one,4,2,google,2020-09-14 17:33:21.770314
+nba,"('nba 2k21 release', 'nba 2k21 release day')",nba 2k21 release,nba 2k21 release day,5,2,google,2020-09-14 17:33:21.770314
+nba,"('nba 2k21 release', 'nba 2k21 release time')",nba 2k21 release,nba 2k21 release time,6,2,google,2020-09-14 17:33:21.770314
+nba,"('nba 2k21 release', 'nba 2k21 release date switch')",nba 2k21 release,nba 2k21 release date switch,7,2,google,2020-09-14 17:33:21.770314
+nba,"('nba 2k21 release', 'nba 2k21 release date pc')",nba 2k21 release,nba 2k21 release date pc,8,2,google,2020-09-14 17:33:21.770314
+nba,"('nba 2k21 release', 'nba 2k21 release date pre order')",nba 2k21 release,nba 2k21 release date pre order,9,2,google,2020-09-14 17:33:21.770314
+nba,"('nba 2k21 mycareer', 'nba 2k21 mycareer story')",nba 2k21 mycareer,nba 2k21 mycareer story,1,2,google,2020-09-14 17:33:23.136725
+nba,"('nba 2k21 mycareer', 'nba 2k21 mycareer locker codes')",nba 2k21 mycareer,nba 2k21 mycareer locker codes,2,2,google,2020-09-14 17:33:23.136725
+nba,"('nba 2k21 mycareer', 'nba 2k21 mycareer trailer')",nba 2k21 mycareer,nba 2k21 mycareer trailer,3,2,google,2020-09-14 17:33:23.136725
+nba,"('nba 2k21 mycareer', 'nba 2k21 mycareer cast')",nba 2k21 mycareer,nba 2k21 mycareer cast,4,2,google,2020-09-14 17:33:23.136725
+nba,"('nba 2k21 mycareer', 'nba 2k21 mycareer storyline')",nba 2k21 mycareer,nba 2k21 mycareer storyline,5,2,google,2020-09-14 17:33:23.136725
+nba,"('nba 2k21 mycareer', 'nba 2k21 mycareer build')",nba 2k21 mycareer,nba 2k21 mycareer build,6,2,google,2020-09-14 17:33:23.136725
+nba,"('nba 2k21 mycareer', 'nba 2k21 mycareer news')",nba 2k21 mycareer,nba 2k21 mycareer news,7,2,google,2020-09-14 17:33:23.136725
+nba,"('nba 2k21 mycareer', 'nba 2k21 mycareer transfer')",nba 2k21 mycareer,nba 2k21 mycareer transfer,8,2,google,2020-09-14 17:33:23.136725
+nba,"('nba 2k21 mycareer', 'nba 2k21 mycareer offline')",nba 2k21 mycareer,nba 2k21 mycareer offline,9,2,google,2020-09-14 17:33:23.136725
+nba,"('nba 2k21 cover', 'nba 2k21 cover athlete')",nba 2k21 cover,nba 2k21 cover athlete,1,2,google,2020-09-14 17:33:24.451397
+nba,"('nba 2k21 cover', 'nba 2k21 cover kobe')",nba 2k21 cover,nba 2k21 cover kobe,2,2,google,2020-09-14 17:33:24.451397
+nba,"('nba 2k21 cover', 'nba 2k21 cover template')",nba 2k21 cover,nba 2k21 cover template,3,2,google,2020-09-14 17:33:24.451397
+nba,"('nba 2k21 cover', 'nba 2k21 cover legend edition')",nba 2k21 cover,nba 2k21 cover legend edition,4,2,google,2020-09-14 17:33:24.451397
+nba,"('nba 2k21 cover', 'nba 2k21 cover art')",nba 2k21 cover,nba 2k21 cover art,5,2,google,2020-09-14 17:33:24.451397
+nba,"('nba 2k21 cover', 'nba 2k21 cover damian lillard')",nba 2k21 cover,nba 2k21 cover damian lillard,6,2,google,2020-09-14 17:33:24.451397
+nba,"('nba 2k21 cover', 'nba 2k21 cover zion')",nba 2k21 cover,nba 2k21 cover zion,7,2,google,2020-09-14 17:33:24.451397
+nba,"('nba 2k21 cover', 'nba 2k21 cover xbox one')",nba 2k21 cover,nba 2k21 cover xbox one,8,2,google,2020-09-14 17:33:24.451397
+nba,"('nba 2k21 cover', 'nba 2k21 cover mycareer')",nba 2k21 cover,nba 2k21 cover mycareer,9,2,google,2020-09-14 17:33:24.451397
+nba,"('nba 2k21 pre order', 'nba 2k21 pre order release date')",nba 2k21 pre order,nba 2k21 pre order release date,1,2,google,2020-09-14 17:33:25.721194
+nba,"('nba 2k21 pre order', 'nba 2k21 pre order ps4')",nba 2k21 pre order,nba 2k21 pre order ps4,2,2,google,2020-09-14 17:33:25.721194
+nba,"('nba 2k21 pre order', 'nba 2k21 pre order date')",nba 2k21 pre order,nba 2k21 pre order date,3,2,google,2020-09-14 17:33:25.721194
+nba,"('nba 2k21 pre order', 'nba 2k21 pre order price')",nba 2k21 pre order,nba 2k21 pre order price,4,2,google,2020-09-14 17:33:25.721194
+nba,"('nba 2k21 pre order', 'nba 2k21 pre order xbox one')",nba 2k21 pre order,nba 2k21 pre order xbox one,5,2,google,2020-09-14 17:33:25.721194
+nba,"('nba 2k21 pre order', 'nba 2k21 pre order gamestop')",nba 2k21 pre order,nba 2k21 pre order gamestop,6,2,google,2020-09-14 17:33:25.721194
+nba,"('nba 2k21 pre order', 'nba 2k21 pre order early access')",nba 2k21 pre order,nba 2k21 pre order early access,7,2,google,2020-09-14 17:33:25.721194
+nba,"('nba 2k21 pre order', 'nba 2k21 pre order deadline')",nba 2k21 pre order,nba 2k21 pre order deadline,8,2,google,2020-09-14 17:33:25.721194
+nba,"('nba 2k21 pre order', 'nba 2k21 pre order chart')",nba 2k21 pre order,nba 2k21 pre order chart,9,2,google,2020-09-14 17:33:25.721194
+nba,"('nba news and rumors', 'nba news and rumors today')",nba news and rumors,nba news and rumors today,1,2,google,2020-09-14 17:33:26.772373
+nba,"('nba news and rumors', 'nba news and rumors bulls')",nba news and rumors,nba news and rumors bulls,2,2,google,2020-09-14 17:33:26.772373
+nba,"('nba news and rumors', 'nba news and rumors spurs')",nba news and rumors,nba news and rumors spurs,3,2,google,2020-09-14 17:33:26.772373
+nba,"('nba news and rumors', 'nba news and rumors rockets')",nba news and rumors,nba news and rumors rockets,4,2,google,2020-09-14 17:33:26.772373
+nba,"('nba news and rumors', 'nba news and rumors knicks')",nba news and rumors,nba news and rumors knicks,5,2,google,2020-09-14 17:33:26.772373
+nba,"('nba news and rumors', 'nba news and rumors hawks')",nba news and rumors,nba news and rumors hawks,6,2,google,2020-09-14 17:33:26.772373
+nba,"('nba news and rumors', 'nba news and rumors celtics')",nba news and rumors,nba news and rumors celtics,7,2,google,2020-09-14 17:33:26.772373
+nba,"('nba news and rumors', 'nba news and rumors timberwolves')",nba news and rumors,nba news and rumors timberwolves,8,2,google,2020-09-14 17:33:26.772373
+nba,"('nba news and rumors', 'nba news and rumors warriors')",nba news and rumors,nba news and rumors warriors,9,2,google,2020-09-14 17:33:26.772373
+nba,"('nba news and rumors', 'nba news and rumors pistons')",nba news and rumors,nba news and rumors pistons,10,2,google,2020-09-14 17:33:26.772373
+nba,"('nba news lakers', 'nba news lakers trade')",nba news lakers,nba news lakers trade,1,2,google,2020-09-14 17:33:27.823893
+nba,"('nba news lakers', 'nba news lakers today')",nba news lakers,nba news lakers today,2,2,google,2020-09-14 17:33:27.823893
+nba,"('nba news lakers', 'nba news lakers rumors')",nba news lakers,nba news lakers rumors,3,2,google,2020-09-14 17:33:27.823893
+nba,"('nba news lakers', 'nba news lakers schedule')",nba news lakers,nba news lakers schedule,4,2,google,2020-09-14 17:33:27.823893
+nba,"('nba news lakers', 'nba news lakers practice')",nba news lakers,nba news lakers practice,5,2,google,2020-09-14 17:33:27.823893
+nba,"('nba news lakers', 'nba news lakers rondo')",nba news lakers,nba news lakers rondo,6,2,google,2020-09-14 17:33:27.823893
+nba,"('nba news lakers', 'nba news lakers clippers')",nba news lakers,nba news lakers clippers,7,2,google,2020-09-14 17:33:27.823893
+nba,"('nba news lakers', 'nba news lakers scores')",nba news lakers,nba news lakers scores,8,2,google,2020-09-14 17:33:27.823893
+nba,"('nba news lakers', 'nba news lakers roster')",nba news lakers,nba news lakers roster,9,2,google,2020-09-14 17:33:27.823893
+nba,"('nba news trade', 'nba news trade rumors')",nba news trade,nba news trade rumors,1,2,google,2020-09-14 17:33:28.849315
+nba,"('nba news trade', 'nba news trade 2020')",nba news trade,nba news trade 2020,2,2,google,2020-09-14 17:33:28.849315
+nba,"('nba news trade', 'nba news trade lakers')",nba news trade,nba news trade lakers,3,2,google,2020-09-14 17:33:28.849315
+nba,"('nba news trade', 'nba news trade warriors')",nba news trade,nba news trade warriors,4,2,google,2020-09-14 17:33:28.849315
+nba,"('nba news trade', 'nba news trade 2021')",nba news trade,nba news trade 2021,5,2,google,2020-09-14 17:33:28.849315
+nba,"('nba news trade', 'nba news trade spurs')",nba news trade,nba news trade spurs,6,2,google,2020-09-14 17:33:28.849315
+nba,"('nba news trade', 'nba news trade bulls')",nba news trade,nba news trade bulls,7,2,google,2020-09-14 17:33:28.849315
+nba,"('nba news trade', 'nba news trades signings')",nba news trade,nba news trades signings,8,2,google,2020-09-14 17:33:28.849315
+nba,"('nba news trade', 'nba news trade celtics')",nba news trade,nba news trade celtics,9,2,google,2020-09-14 17:33:28.849315
+nba,"('nba news clippers', 'nba news clippers roster')",nba news clippers,nba news clippers roster,1,2,google,2020-09-14 17:33:29.853044
+nba,"('nba news clippers', 'nba news clippers vs mavericks')",nba news clippers,nba news clippers vs mavericks,2,2,google,2020-09-14 17:33:29.853044
+nba,"('nba news clippers', 'nba news clippers vs nuggets')",nba news clippers,nba news clippers vs nuggets,3,2,google,2020-09-14 17:33:29.853044
+nba,"('nba news clippers', 'nba news clippers injury report')",nba news clippers,nba news clippers injury report,4,2,google,2020-09-14 17:33:29.853044
+nba,"('nba news clippers', 'nba news clippers trade')",nba news clippers,nba news clippers trade,5,2,google,2020-09-14 17:33:29.853044
+nba,"('nba news clippers', 'nba clippers news and rumors')",nba news clippers,nba clippers news and rumors,6,2,google,2020-09-14 17:33:29.853044
+nba,"('nba news clippers', 'nba clippers news now')",nba news clippers,nba clippers news now,7,2,google,2020-09-14 17:33:29.853044
+nba,"('nba news clippers', 'nba latest news clippers')",nba news clippers,nba latest news clippers,8,2,google,2020-09-14 17:33:29.853044
+nba,"('nba news clippers', 'nba news kawhi clippers')",nba news clippers,nba news kawhi clippers,9,2,google,2020-09-14 17:33:29.853044
+nba,"('nba news rockets', 'nba news rockets rumors')",nba news rockets,nba news rockets rumors,1,2,google,2020-09-14 17:33:30.640683
+nba,"('nba news rockets', 'nba news rockets trade rumors')",nba news rockets,nba news rockets trade rumors,2,2,google,2020-09-14 17:33:30.640683
+nba,"('nba news rockets', 'nba news rockets roster')",nba news rockets,nba news rockets roster,3,2,google,2020-09-14 17:33:30.640683
+nba,"('nba news rockets', 'nba news rockets vs warriors')",nba news rockets,nba news rockets vs warriors,4,2,google,2020-09-14 17:33:30.640683
+nba,"('nba news rockets', 'nba news rockets vs clippers')",nba news rockets,nba news rockets vs clippers,5,2,google,2020-09-14 17:33:30.640683
+nba,"('nba news rockets', 'nba news rockets vs nuggets')",nba news rockets,nba news rockets vs nuggets,6,2,google,2020-09-14 17:33:30.640683
+nba,"('nba news rockets', 'nba trade news rockets')",nba news rockets,nba trade news rockets,7,2,google,2020-09-14 17:33:30.640683
+nba,"('nba news rockets', 'nba news gsw vs rockets')",nba news rockets,nba news gsw vs rockets,8,2,google,2020-09-14 17:33:30.640683
+nba,"('nba news rockets', 'nba trade news houston rockets')",nba news rockets,nba trade news houston rockets,9,2,google,2020-09-14 17:33:30.640683
+nba,"('nba news warriors', 'nba news warriors trade')",nba news warriors,nba news warriors trade,1,2,google,2020-09-14 17:33:32.067604
+nba,"('nba news warriors', 'nba news warriors rumors')",nba news warriors,nba news warriors rumors,2,2,google,2020-09-14 17:33:32.067604
+nba,"('nba news warriors', 'nba news warriors klay thompson')",nba news warriors,nba news warriors klay thompson,3,2,google,2020-09-14 17:33:32.067604
+nba,"('nba news warriors', 'nba news warriors roster')",nba news warriors,nba news warriors roster,4,2,google,2020-09-14 17:33:32.067604
+nba,"('nba news warriors', 'nba news warriors injury report')",nba news warriors,nba news warriors injury report,5,2,google,2020-09-14 17:33:32.067604
+nba,"('nba news warriors', 'nba news warriors durant')",nba news warriors,nba news warriors durant,6,2,google,2020-09-14 17:33:32.067604
+nba,"('nba news warriors', 'nba news warriors vs rockets')",nba news warriors,nba news warriors vs rockets,7,2,google,2020-09-14 17:33:32.067604
+nba,"('nba news warriors', 'nba news warriors iguodala')",nba news warriors,nba news warriors iguodala,8,2,google,2020-09-14 17:33:32.067604
+nba,"('nba news warriors', 'nba news warriors andre iguodala')",nba news warriors,nba news warriors andre iguodala,9,2,google,2020-09-14 17:33:32.067604
+nba,"('nba news espn', 'nba news espn youtube')",nba news espn,nba news espn youtube,1,2,google,2020-09-14 17:33:33.205741
+nba,"('nba news espn', 'nba espn news and rumors')",nba news espn,nba espn news and rumors,2,2,google,2020-09-14 17:33:33.205741
+nba,"('nba news espn', 'nba trade news espn')",nba news espn,nba trade news espn,3,2,google,2020-09-14 17:33:33.205741
+nba,"('nba news espn', 'nba news update espn')",nba news espn,nba news update espn,4,2,google,2020-09-14 17:33:33.205741
+nba,"('nba news espn', 'nba draft news espn')",nba news espn,nba draft news espn,5,2,google,2020-09-14 17:33:33.205741
+nba,"('nba news espn', 'nba news raptors espn')",nba news espn,nba news raptors espn,6,2,google,2020-09-14 17:33:33.205741
+nba,"('nba news espn', 'nba finals news espn')",nba news espn,nba finals news espn,7,2,google,2020-09-14 17:33:33.205741
+nba,"('nba news espn', 'nba player news espn')",nba news espn,nba player news espn,8,2,google,2020-09-14 17:33:33.205741
+nba,"('nba news espn', 'nba free agency news espn')",nba news espn,nba free agency news espn,9,2,google,2020-09-14 17:33:33.205741
+nba,"('nba news scores', 'nba news scores standings')",nba news scores,nba news scores standings,1,2,google,2020-09-14 17:33:34.103415
+nba,"('nba news scores', 'nba news scores standings yahoo')",nba news scores,nba news scores standings yahoo,2,2,google,2020-09-14 17:33:34.103415
+nba,"('nba news scores', 'nba news scores stats')",nba news scores,nba news scores stats,3,2,google,2020-09-14 17:33:34.103415
+nba,"('nba news scores', 'nba scores nfl news')",nba news scores,nba scores nfl news,4,2,google,2020-09-14 17:33:34.103415
+nba,"('nba news scores', 'nba scores lakers news')",nba news scores,nba scores lakers news,5,2,google,2020-09-14 17:33:34.103415
+nba,"('nba news scores', 'nba scores nba news')",nba news scores,nba scores nba news,6,2,google,2020-09-14 17:33:34.103415
+nba,"('nba news scores', 'nba scores mlb news')",nba news scores,nba scores mlb news,7,2,google,2020-09-14 17:33:34.103415
+nba,"('nba news scores', 'nba news lakers scores')",nba news scores,nba news lakers scores,8,2,google,2020-09-14 17:33:34.103415
+nba,"('nba news scores', 'fox news nba scores')",nba news scores,fox news nba scores,9,2,google,2020-09-14 17:33:34.103415
+nba,"('nba news celtics', 'nba news celtics vs raptors')",nba news celtics,nba news celtics vs raptors,1,2,google,2020-09-14 17:33:35.124603
+nba,"('nba news celtics', 'nba news celtics rumors')",nba news celtics,nba news celtics rumors,2,2,google,2020-09-14 17:33:35.124603
+nba,"('nba news celtics', 'nba news celtics trade rumors')",nba news celtics,nba news celtics trade rumors,3,2,google,2020-09-14 17:33:35.124603
+nba,"('nba news celtics', 'nba news celtics trade')",nba news celtics,nba news celtics trade,4,2,google,2020-09-14 17:33:35.124603
+nba,"('nba news celtics', 'nba news celtics roster')",nba news celtics,nba news celtics roster,5,2,google,2020-09-14 17:33:35.124603
+nba,"('nba news celtics', 'nba celtics news now')",nba news celtics,nba celtics news now,6,2,google,2020-09-14 17:33:35.124603
+nba,"('nba news celtics', 'nba news boston celtics')",nba news celtics,nba news boston celtics,7,2,google,2020-09-14 17:33:35.124603
+nba,"('nba news celtics', 'nba draft news celtics')",nba news celtics,nba draft news celtics,8,2,google,2020-09-14 17:33:35.124603
+nba,"('nba news celtics', 'nba news today celtics')",nba news celtics,nba news today celtics,9,2,google,2020-09-14 17:33:35.124603
+nba,"('nba bubble schedule', 'nba bubble schedule 2020')",nba bubble schedule,nba bubble schedule 2020,1,2,google,2020-09-14 17:33:36.043004
+nba,"('nba bubble schedule', 'nba bubble schedule playoffs')",nba bubble schedule,nba bubble schedule playoffs,2,2,google,2020-09-14 17:33:36.043004
+nba,"('nba bubble schedule', 'nba bubble schedule today')",nba bubble schedule,nba bubble schedule today,3,2,google,2020-09-14 17:33:36.043004
+nba,"('nba bubble schedule', 'nba bubble schedule preseason')",nba bubble schedule,nba bubble schedule preseason,4,2,google,2020-09-14 17:33:36.043004
+nba,"('nba bubble schedule', 'nba bubble schedule lakers')",nba bubble schedule,nba bubble schedule lakers,5,2,google,2020-09-14 17:33:36.043004
+nba,"('nba bubble schedule', 'nba bubble schedule scrimmage')",nba bubble schedule,nba bubble schedule scrimmage,6,2,google,2020-09-14 17:33:36.043004
+nba,"('nba bubble schedule', 'nba bubble schedule by team')",nba bubble schedule,nba bubble schedule by team,7,2,google,2020-09-14 17:33:36.043004
+nba,"('nba bubble schedule', 'nba bubble schedule strength')",nba bubble schedule,nba bubble schedule strength,8,2,google,2020-09-14 17:33:36.043004
+nba,"('nba bubble schedule', 'nba bubble schedule finals')",nba bubble schedule,nba bubble schedule finals,9,2,google,2020-09-14 17:33:36.043004
+nba,"('nba bubble standings', 'nba bubble standings 2020')",nba bubble standings,nba bubble standings 2020,1,2,google,2020-09-14 17:33:36.918478
+nba,"('nba bubble standings', 'nba bubble standings playoffs')",nba bubble standings,nba bubble standings playoffs,2,2,google,2020-09-14 17:33:36.918478
+nba,"('nba bubble standings', 'nba bubble standings today')",nba bubble standings,nba bubble standings today,3,2,google,2020-09-14 17:33:36.918478
+nba,"('nba bubble standings', 'nba bubble standings western conference')",nba bubble standings,nba bubble standings western conference,4,2,google,2020-09-14 17:33:36.918478
+nba,"('nba bubble standings', 'nba bubble standings west')",nba bubble standings,nba bubble standings west,5,2,google,2020-09-14 17:33:36.918478
+nba,"('nba bubble standings', 'nba bubble standings suns')",nba bubble standings,nba bubble standings suns,6,2,google,2020-09-14 17:33:36.918478
+nba,"('nba bubble standings', 'nba bubble standings rules')",nba bubble standings,nba bubble standings rules,7,2,google,2020-09-14 17:33:36.918478
+nba,"('nba bubble standings', 'nba bubble standings bracket')",nba bubble standings,nba bubble standings bracket,8,2,google,2020-09-14 17:33:36.918478
+nba,"('nba bubble standings', 'nba bubble standings east')",nba bubble standings,nba bubble standings east,9,2,google,2020-09-14 17:33:36.918478
+nba,"('nba bubble teams', 'nba bubble teams 2020')",nba bubble teams,nba bubble teams 2020,1,2,google,2020-09-14 17:33:37.792380
+nba,"('nba bubble teams', 'nba bubble teams standings')",nba bubble teams,nba bubble teams standings,2,2,google,2020-09-14 17:33:37.792380
+nba,"('nba bubble teams', 'nba bubble teams schedule')",nba bubble teams,nba bubble teams schedule,3,2,google,2020-09-14 17:33:37.792380
+nba,"('nba bubble teams', 'nba bubble teams roster')",nba bubble teams,nba bubble teams roster,4,2,google,2020-09-14 17:33:37.792380
+nba,"('nba bubble teams', 'nba bubble teams hotels')",nba bubble teams,nba bubble teams hotels,5,2,google,2020-09-14 17:33:37.792380
+nba,"('nba bubble teams', 'nba bubble teams records')",nba bubble teams,nba bubble teams records,6,2,google,2020-09-14 17:33:37.792380
+nba,"('nba bubble teams', 'nba bubble teams left out')",nba bubble teams,nba bubble teams left out,7,2,google,2020-09-14 17:33:37.792380
+nba,"('nba bubble teams', 'nba bubble teams eliminated')",nba bubble teams,nba bubble teams eliminated,8,2,google,2020-09-14 17:33:37.792380
+nba,"('nba bubble teams', 'nba bubble teams left')",nba bubble teams,nba bubble teams left,9,2,google,2020-09-14 17:33:37.792380
+nba,"('nba bubble stats', 'nba bubble stats leaders')",nba bubble stats,nba bubble stats leaders,1,2,google,2020-09-14 17:33:38.988962
+nba,"('nba bubble stats', 'nba bubble stats basketball reference')",nba bubble stats,nba bubble stats basketball reference,2,2,google,2020-09-14 17:33:38.988962
+nba,"('nba bubble stats', 'nba bubble stats ppg')",nba bubble stats,nba bubble stats ppg,3,2,google,2020-09-14 17:33:38.988962
+nba,"('nba bubble stats', 'nba bubble stats only')",nba bubble stats,nba bubble stats only,4,2,google,2020-09-14 17:33:38.988962
+nba,"('nba bubble stats', 'nba bubble stats count')",nba bubble stats,nba bubble stats count,5,2,google,2020-09-14 17:33:38.988962
+nba,"('nba bubble stats', 'nba bubble stats quiz')",nba bubble stats,nba bubble stats quiz,6,2,google,2020-09-14 17:33:38.988962
+nba,"('nba bubble stats', 'nba bubble stats players')",nba bubble stats,nba bubble stats players,7,2,google,2020-09-14 17:33:38.988962
+nba,"('nba bubble stats', 'nba bubble stats teams')",nba bubble stats,nba bubble stats teams,8,2,google,2020-09-14 17:33:38.988962
+nba,"('nba bubble stats', 'nba bubble stats celtics')",nba bubble stats,nba bubble stats celtics,9,2,google,2020-09-14 17:33:38.988962
+nba,"('nba bubble food', 'nba bubble food menu')",nba bubble food,nba bubble food menu,1,2,google,2020-09-14 17:33:40.395538
+nba,"('nba bubble food', 'nba bubble food pictures')",nba bubble food,nba bubble food pictures,2,2,google,2020-09-14 17:33:40.395538
+nba,"('nba bubble food', 'nba bubble food delivery')",nba bubble food,nba bubble food delivery,3,2,google,2020-09-14 17:33:40.395538
+nba,"('nba bubble food', 'nba bubble food reddit')",nba bubble food,nba bubble food reddit,4,2,google,2020-09-14 17:33:40.395538
+nba,"('nba bubble food', 'nba bubble food lebron')",nba bubble food,nba bubble food lebron,5,2,google,2020-09-14 17:33:40.395538
+nba,"('nba bubble food', 'nba bubble food pics')",nba bubble food,nba bubble food pics,6,2,google,2020-09-14 17:33:40.395538
+nba,"('nba bubble food', 'nba bubble food complaints')",nba bubble food,nba bubble food complaints,7,2,google,2020-09-14 17:33:40.395538
+nba,"('nba bubble food', 'nba bubble food twitter')",nba bubble food,nba bubble food twitter,8,2,google,2020-09-14 17:33:40.395538
+nba,"('nba bubble food', 'nba bubble food memes')",nba bubble food,nba bubble food memes,9,2,google,2020-09-14 17:33:40.395538
+nba,"('nba bubble records', 'nba bubble records so far')",nba bubble records,nba bubble records so far,1,2,google,2020-09-14 17:33:41.745576
+nba,"('nba bubble records', 'best nba bubble records')",nba bubble records,best nba bubble records,2,2,google,2020-09-14 17:33:41.745576
+nba,"('nba bubble records', 'all nba bubble records')",nba bubble records,all nba bubble records,3,2,google,2020-09-14 17:33:41.745576
+nba,"('nba bubble records', 'nba bubble win loss records')",nba bubble records,nba bubble win loss records,4,2,google,2020-09-14 17:33:41.745576
+nba,"('nba bubble playoffs', 'nba bubble playoffs format')",nba bubble playoffs,nba bubble playoffs format,1,2,google,2020-09-14 17:33:42.573175
+nba,"('nba bubble playoffs', 'nba bubble playoffs schedule')",nba bubble playoffs,nba bubble playoffs schedule,2,2,google,2020-09-14 17:33:42.573175
+nba,"('nba bubble playoffs', 'nba bubble playoffs bracket')",nba bubble playoffs,nba bubble playoffs bracket,3,2,google,2020-09-14 17:33:42.573175
+nba,"('nba bubble playoffs', 'nba bubble playoffs rules')",nba bubble playoffs,nba bubble playoffs rules,4,2,google,2020-09-14 17:33:42.573175
+nba,"('nba bubble playoffs', 'nba bubble playoffs standings')",nba bubble playoffs,nba bubble playoffs standings,5,2,google,2020-09-14 17:33:42.573175
+nba,"('nba bubble playoffs', 'nba bubble playoffs start')",nba bubble playoffs,nba bubble playoffs start,6,2,google,2020-09-14 17:33:42.573175
+nba,"('nba bubble playoffs', 'nba bubble playoffs 2020')",nba bubble playoffs,nba bubble playoffs 2020,7,2,google,2020-09-14 17:33:42.573175
+nba,"('nba bubble playoffs', 'nba bubble playoffs scores')",nba bubble playoffs,nba bubble playoffs scores,8,2,google,2020-09-14 17:33:42.573175
+nba,"('nba bubble playoffs', 'nba bubble playoffs start date')",nba bubble playoffs,nba bubble playoffs start date,9,2,google,2020-09-14 17:33:42.573175
+nba,"('nba bubble plan', 'nba bubble plan hotels')",nba bubble plan,nba bubble plan hotels,1,2,google,2020-09-14 17:33:43.804810
+nba,"('nba bubble plan', 'nba bubble plan families')",nba bubble plan,nba bubble plan families,2,2,google,2020-09-14 17:33:43.804810
+nba,"('nba bubble plan', 'nba bubble plan schedule')",nba bubble plan,nba bubble plan schedule,3,2,google,2020-09-14 17:33:43.804810
+nba,"('nba bubble plan', 'nba bubble plan explained')",nba bubble plan,nba bubble plan explained,4,2,google,2020-09-14 17:33:43.804810
+nba,"('nba bubble plan', 'nba orlando bubble plan')",nba bubble plan,nba orlando bubble plan,5,2,google,2020-09-14 17:33:43.804810
+nba,"('nba bubble plan', 'nba bubble floor plan')",nba bubble plan,nba bubble floor plan,6,2,google,2020-09-14 17:33:43.804810
+nba,"('nba bubble hotels', 'nba bubble location hotels')",nba bubble hotels,nba bubble location hotels,1,2,google,2020-09-14 17:33:45.086305
